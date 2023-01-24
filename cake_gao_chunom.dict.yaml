@@ -1,0 +1,9 @@
+
+name: cake_gao_chunom
+version: "0.1"
+sort: original
+use_preset_vocabulary: false
+
+import_tables:
+  - cake_gao_chunom.chars
+  - cake_gao_chunom.plus
