@@ -1,2 +1,2 @@
 # rime-chunom-cakegao
-CHUNOM IME
+Rime Schema for Chunom.
