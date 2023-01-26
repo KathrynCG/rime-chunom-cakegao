@@ -64,6 +64,7 @@ sort: original
 偨	thày
 偨	thầy
 𠎨	cắp
+僤	dạn
 𠎊	rôm
 𠎊	xúm
 儀	nghe
@@ -302,6 +303,7 @@ sort: original
 𠱆	dắng
 𠱆	dặng
 𠱆	giắng
+呤	liệng
 咍	hai
 咍	hay
 咍	hây
@@ -415,6 +417,7 @@ sort: original
 𠲥	lẫy
 𠲥	le
 𠲥	lể
+咠	nghiện
 𠱓	ngoai
 𠴉	ngoẻn
 𠲏	nhấm
@@ -450,6 +453,7 @@ sort: original
 啊	ạ
 𠳝	bẽ
 𠳝	bựa
+哱	buột
 𠳚	cãi
 𠳚	gửi
 𠳚	khảy
@@ -621,6 +625,7 @@ sort: original
 唷	giục
 唷	róc
 𠲓	hàng
+㖧	hôn
 啉	lâm
 啉	lăm
 啉	lầm
@@ -901,6 +906,8 @@ sort: original
 嘺	kĩu
 𠽖	giục
 𠻷	hẹn
+噓	hờ
+噓	hư
 𠼯	hớ
 𠼯	hở
 𠼯	hử
@@ -1139,6 +1146,8 @@ sort: original
 𡃍	gớm
 𡃏	doạ
 𡃕	gùng
+㘋	hèn
+㘋	hờn
 𡃖	lừ
 𡃖	lừa
 𡃖	lựa
@@ -1252,6 +1261,7 @@ sort: original
 垃	lớp
 垃	nấp
 垃	rập
+垆	lò
 𡊠	nháp
 坭	nai
 坭	nê
@@ -1320,6 +1330,7 @@ sort: original
 墫	trôn
 𡏽	dập
 𡏽	đập
+㙤	hố
 𡐗	hốc
 𡐘	nứt
 塳	vùng
@@ -1502,6 +1513,7 @@ sort: original
 𢘾	nhớ
 𢘾	nhờ
 㤡	sệt
+㤳	bẽ
 悑	bố
 悑	bỏ
 𢚁	cạy
@@ -1567,6 +1579,7 @@ sort: original
 𢟔	thói
 𢟔	thối
 𢟖	tởm
+𮬩	đểu
 𢠥	gàn
 慳	ghen
 慳	khan
@@ -1592,6 +1605,7 @@ sort: original
 𢢁	sờn
 𢢆	thèn
 𢢆	thẹn
+憭	trêu
 𢢇	tủi
 𢠿	vay
 𢠿	ve
@@ -1628,6 +1642,8 @@ sort: original
 𢥇	chán
 𢤫	cỡ
 𢤫	gở
+𢤽	hững
+𢤽	hửng
 𢥉	nhãng
 𢣧	khuây
 𢥖	trai
@@ -2385,6 +2401,8 @@ sort: original
 𢷮	giói
 擱	các
 擱	gác
+㩜	giam
+㩜	lãm
 𢷰	khênh
 𢷰	khiêng
 𢷴	quẫy
@@ -2495,13 +2513,15 @@ sort: original
 𢺤	dan
 𢺤	dàn
 𢺤	lườn
+𢺖	nén
+攮	nang
 攮	nện
-攮	VNotg
 𣂃	giạ
 𣄇	tròn
 𣄇	vuông
 𣅅	nãy
 𣅅	nẫy
+旴	hù
 𣅗	kỉa
 𣅵	tăm
 𣅵	tấm
@@ -2517,6 +2537,7 @@ sort: original
 𣇞	chừ
 𣇞	giờ
 𣇠	kĩa
+𢺖	nạng
 𣇡	kịa
 𣈒	kìa
 㫻	luôn
@@ -2537,6 +2558,7 @@ sort: original
 𣉸	kía
 𣉕	tảng
 𣊘	ngừ
+𢺖	nện
 𣊾	bây
 𣋑	diếp
 𣋑	dịp
@@ -2666,6 +2688,7 @@ sort: original
 椚	mun
 椚	mùn
 椚	muồng
+㮈	nậy
 𣔡	phà
 棦	chanh
 棦	giành
@@ -2725,6 +2748,7 @@ sort: original
 𣙺	mậm
 𣙺	tông
 𣙧	nhãn
+𣙙	rắc
 樔	rào
 樔	sào
 樔	trèo
@@ -2842,6 +2866,7 @@ sort: original
 泑	ao
 泑	ào
 泑	au
+泍	bẩn
 泙	bầng
 泙	bềnh
 泙	bình
@@ -3399,18 +3424,22 @@ sort: original
 𬋙	hên
 𬋙	hưng
 𬋙	hứng
+𤑸	lốm
+𤑸	rán
 𤒟	nhùi
 爙	nháng
 爙	nhưỡng
 𤓩	bén
 𤓩	nẳn
+𤓢	nang
 𤓢	năng
 𤓢	nắng
 𤓢	nến
 𤓢	nướng
-𤓢	VNotg
 𤔽	móng
 𤖶	bánh
+𤑸	nhóm
+𤑸	rám
 𤗆	múi
 𤗖	mảnh
 𤗖	vành
@@ -3458,8 +3487,9 @@ sort: original
 㺔	vây
 㺔	voi
 㺔	vỏi
+㺞	dữ
+獰	nanh
 獰	ninh
-獰	VNoth
 獺	rái
 獺	thát
 㺧	heo
@@ -3525,6 +3555,7 @@ sort: original
 𤴶	sởi
 㽳	võ
 𤵳	bón
+㽿	cùi
 疸	đảm
 疸	đơn
 疸	đớn
@@ -3837,6 +3868,7 @@ sort: original
 𥭍	dằm
 𥭎	măng
 𥭏	mấu
+𥮉	bu
 𥮊	đuã
 𥮊	đũa
 筥	cỡ
@@ -3906,6 +3938,7 @@ sort: original
 籚	lờ
 籚	lư
 籚	lừ
+籣	tràn
 𥸿	bả
 𥹀	tấm
 粃	bỉ
@@ -3913,6 +3946,7 @@ sort: original
 𥹘	bánh
 𥹙	cháo
 𥹙	tráo
+粡	đòng
 𥹸	bột
 𥺎	bổi
 𥺊	cháo
@@ -3969,6 +4003,7 @@ sort: original
 𦀊	giây
 𦀊	rây
 𦀊	tơ
+䋖	luột
 𦀌	nhợ
 𦀨	nơ
 絖	quang
@@ -4118,6 +4153,7 @@ sort: original
 胺	ươn
 胺	ườn
 𦛺	bét
+𦛼	bênh
 𦛾	nục
 𦜀	phị
 脿	béo
@@ -4246,6 +4282,8 @@ sort: original
 𦰦	cải
 𦰦	gửi
 𦰣	đay
+莰	khóm
+莰	khúm
 𦰤	lào
 𦰤	lau
 菻	lim
@@ -4262,6 +4300,7 @@ sort: original
 𦲺	sả
 𦬻	nu
 𦬻	nụ
+菕	trun
 葻	bông
 葻	boong
 葻	bung
@@ -4271,6 +4310,7 @@ sort: original
 萾	giền
 萾	giềng
 萾	riềng
+萫	hảng
 𦵠	hẹ
 𦵗	ké
 葇	nhú
@@ -4288,9 +4328,12 @@ sort: original
 蓓	bội
 蓓	bụi
 蓓	vối
+蒣	dưa
+蒣	dừa
 蓐	náu
 蓐	nhục
 蓐	nóc
+蒣	giừa
 蓃	sấu
 𦹷	bụi
 𦹰	mầm
@@ -4546,8 +4589,8 @@ sort: original
 𧧯	khoang
 𧯄	hang
 𧯵	phộng
+𧰗	nanh
 𧰗	nành
-𧰗	VNoth
 𧰦	út
 𧰦	ụt
 𧵆	gần
@@ -4791,6 +4834,7 @@ sort: original
 𨇒	rõi
 𨇒	ruổi
 𨇓	gượm
+𨇘	rông
 𨇵	nhào
 𨉞	lưng
 𨉟	mình
@@ -4833,6 +4877,7 @@ sort: original
 𨔾	trở
 𨖅	sang
 𨖅	xang
+䢦	suốt
 𨘗	đuổi
 𨘗	giun
 𨛦	quẩn
@@ -4947,6 +4992,7 @@ sort: original
 𨨷	nhụt
 𨨷	nút
 𨫄	băm
+鎶	cà
 鎬	cào
 鎬	cảo
 𨫋	cồng
@@ -5182,6 +5228,7 @@ sort: original
 𩸮	bống
 𩸰	cua
 𩸰	go
+𩷹	sạo
 𩸲	sứa
 𩸴	trê
 鯺	chả
@@ -5873,6 +5920,7 @@ sort: original
 俺	êm
 俺	yêm
 倀	trành
+倂	tính
 倈	lười
 個	cá
 個	cái
@@ -6071,8 +6119,11 @@ sort: original
 儒	nho
 儒	nhô
 儒	nhu
+儳	sàm
+儳	sờm
 儼	ngẩm
 儼	nghiễm
+儳	xàm
 兀	ngát
 兀	ngất
 兀	ngặt
@@ -6200,6 +6251,8 @@ sort: original
 冘	nhũng
 冠	quan
 冠	quán
+冡	trũng
+冡	trủng
 冤	oan
 冥	mênh
 冥	minh
@@ -6387,6 +6440,8 @@ sort: original
 削	tượt
 前	tèn
 前	tiền
+剝	bác
+剝	bóc
 剧	cưa
 剧	kịch
 剪	tiễn
@@ -6700,6 +6755,7 @@ sort: original
 厘	li
 厘	ly
 厘	rì
+厛	sảnh
 厝	thố
 厝	xó
 原	nguyên
@@ -7305,6 +7361,8 @@ sort: original
 啩	quải
 啩	quấy
 啷	lắng
+啺	dễ
+啺	dể
 啿	thầm
 啿	thòm
 喁	ngông
@@ -7488,6 +7546,7 @@ sort: original
 噴	phún
 噴	phùn
 噶	gắt
+嚂	giạm
 嚄	quác
 嚄	toác
 嚄	toạc
@@ -7538,6 +7597,7 @@ sort: original
 囒	lơn
 囒	lờn
 囒	rợn
+囕	trộm
 囚	sù
 囚	tù
 四	tớ
@@ -7563,6 +7623,7 @@ sort: original
 固	cố
 固	cớ
 固	cúa
+囻	quốc
 圃	bo
 圃	bò
 圃	phố
@@ -7655,9 +7716,13 @@ sort: original
 垢	cấu
 垢	hấu
 垵	ang
+垹	bậng
+垹	bựng
 埁	gậm
 埃	ai
 埃	ươi
+埇	thõng
+埈	thoạ
 埋	mai
 埋	mài
 埋	man
@@ -7679,6 +7744,8 @@ sort: original
 埮	dậm
 埮	dặm
 埮	vịm
+埶	đệm
+埶	điếm
 執	chấp
 執	chắp
 執	chập
@@ -7911,6 +7978,7 @@ sort: original
 契	khít
 契	khịt
 奢	xa
+奧	áo
 奪	đoạt
 奪	sáo
 奪	xạo
@@ -8082,6 +8150,7 @@ sort: original
 嫖	tẹo
 嫗	ẩu
 嫡	đích
+嫦	thường
 嫩	non
 嫩	nõn
 嫩	nồn
@@ -8477,6 +8546,7 @@ sort: original
 岱	đai
 岱	đại
 岱	đồi
+岵	hô
 岸	ngan
 岸	ngàn
 岸	ngạn
@@ -8494,6 +8564,7 @@ sort: original
 崇	tròng
 崇	xồng
 崇	xùng
+崊	lờm
 崑	côn
 崑	kon
 崒	chót
@@ -8510,7 +8581,10 @@ sort: original
 崙	lùn
 崙	son
 崙	tròn
+嵁	kham
 嵋	mi
+嵎	giủng
+嵎	ngu
 嵩	tum
 嵩	tung
 嵩	tuông
@@ -8884,6 +8958,8 @@ sort: original
 彊	cương
 彊	cường
 彊	cưỡng
+𫜹	kẹ
+𫜹	kệ
 形	hềnh
 形	hình
 彩	rằn
@@ -9229,6 +9305,7 @@ sort: original
 惕	thích
 惚	ghen
 惚	hốt
+惛	hôn
 惜	tích
 惜	tiếc
 惠	huệ
@@ -9313,6 +9390,7 @@ sort: original
 慢	mượn
 慣	quán
 慣	quen
+慤	xác
 慨	khái
 慨	khới
 慫	túng
@@ -9356,6 +9434,7 @@ sort: original
 憾	gớm
 憾	hám
 憾	hóm
+懃	cần
 懇	khấn
 懇	khắn
 懇	khẩn
@@ -9573,6 +9652,7 @@ sort: original
 抯	thả
 抯	vả
 抳	nai
+抷	phơ
 抺	vầy
 押	áp
 押	ắp
@@ -10621,6 +10701,7 @@ sort: original
 板	phản
 板	ván
 枉	uổng
+枓	rẫu
 枕	chấm
 枕	chắm
 枕	chẩm
@@ -10678,6 +10759,8 @@ sort: original
 柁	đà
 柁	xa
 柁	xà
+柃	linh
+柃	rành
 柄	bính
 柆	sập
 柊	chông
@@ -10856,6 +10939,7 @@ sort: original
 森	xum
 森	xúm
 森	xùm
+棯	nạm
 棱	dừng
 棱	lăng
 棱	rừng
@@ -10869,6 +10953,7 @@ sort: original
 棹	rào
 棹	trạo
 棺	quan
+棿	nghê
 植	thực
 椎	choi
 椎	chòi
@@ -10889,6 +10974,8 @@ sort: original
 楚	sở
 楛	gõ
 楛	gỗ
+楢	dứa
+楢	giùa
 楨	trinh
 楨	trính
 業	nghiệp
@@ -10907,6 +10994,8 @@ sort: original
 榜	bảng
 榜	bửng
 榜	vảng
+榡	tó
+榩	kiền
 榮	vang
 榮	văng
 榮	vanh
@@ -10914,6 +11003,8 @@ sort: original
 榮	vênh
 榮	vểnh
 榮	vinh
+榱	suôi
+榱	suy
 榴	lựu
 槃	bàn
 槊	giáo
@@ -11030,6 +11121,8 @@ sort: original
 機	cơ
 機	ki
 機	kì
+橤	nhị
+橤	nhuy
 橽	thốt
 橽	thớt
 檀	đàn
@@ -11063,6 +11156,8 @@ sort: original
 櫃	quầy
 櫃	quĩ
 櫃	quỹ
+櫈	đắng
+櫊	gác
 櫟	lác
 櫟	lịch
 櫟	nẻo
@@ -11079,7 +11174,10 @@ sort: original
 欄	ràn
 權	quàn
 權	quyền
+欗	lườn
+欗	tran
 欠	khiếm
+欗	trang
 次	khứa
 次	thớ
 次	thứ
@@ -11198,9 +11296,11 @@ sort: original
 殺	sịt
 殺	sướt
 殺	sượt
+殻	xác
 殿	đền
 殿	điện
 殿	điếng
+毁	huỷ
 毅	nghị
 毋	vô
 母	mẫu
@@ -11429,6 +11529,8 @@ sort: original
 法	phắp
 法	phập
 法	phép
+泗	tứ
+泗	tứa
 泛	bấm
 泛	mẹp
 泛	phiếm
@@ -11547,6 +11649,7 @@ sort: original
 流	lưu
 浗	gàu
 浗	gầu
+浠	hơ
 浥	ấp
 浥	ắp
 浥	ập
@@ -11621,6 +11724,7 @@ sort: original
 淘	rào
 淚	lệ
 淚	luỵ
+淟	đén
 淡	dạm
 淡	dặm
 淡	đầm
@@ -11667,6 +11771,7 @@ sort: original
 淬	xót
 淮	choài
 淮	hoài
+淯	rộc
 深	thâm
 深	thăm
 深	thẫm
@@ -11896,6 +12001,7 @@ sort: original
 漸	tiệm
 漸	tràn
 漼	dồi
+潐	tèo
 潔	khiết
 潔	khít
 潗	bập
@@ -12139,6 +12245,8 @@ sort: original
 煽	phiến
 熄	tắt
 熄	tức
+熅	un
+熅	ùn
 熊	hùng
 熑	rim
 熙	hây
@@ -12511,11 +12619,14 @@ sort: original
 畫	vạch
 畫	vệch
 畫	vệt
+畱	lưu
 當	đang
 當	đáng
 當	đăng
 當	đấng
 當	đương
+畺	cưng
+畺	cương
 疊	đệp
 疊	điệp
 疊	xếp
@@ -12745,6 +12856,7 @@ sort: original
 眠	miên
 眩	gioèn
 眩	huyễn
+眪	rĩnh
 眭	huy
 眭	khoé
 眭	khoẻ
@@ -12924,6 +13036,7 @@ sort: original
 磬	khánh
 磷	lân
 磺	hoàng
+礌	sỏi
 礎	sờ
 礎	sở
 礙	ngái
@@ -12982,14 +13095,18 @@ sort: original
 禀	lắm
 禀	sấm
 禀	trắm
+禿	sốc
 禁	bấm
 禁	cấm
 禁	cắm
 禁	quắm
+禿	thóc
 禍	hoạ
 禍	vạ
+禿	thốc
 福	phúc
 福	phước
+禿	trọc
 禦	ngự
 禦	ngừa
 禫	đệm
@@ -13016,6 +13133,7 @@ sort: original
 离	luy
 离	ly
 禽	cầm
+禿	ngốc
 秀	tú
 私	tây
 私	tư
@@ -13251,6 +13369,7 @@ sort: original
 筏	phiệt
 筑	trúc
 筒	đồng
+笄	kê
 答	đáp
 答	đắp
 答	đớp
@@ -13309,10 +13428,13 @@ sort: original
 篆	triện
 築	trốc
 築	trúc
+篘	sua
 篙	cao
 篙	gàu
 篙	gầu
 篙	sào
+篝	câu
+篝	quảu
 篡	choán
 篡	soán
 篡	thoán
@@ -13351,6 +13473,7 @@ sort: original
 簪	trắm
 簫	tiêu
 簫	tiu
+簬	rọ
 簾	liêm
 簾	rèm
 籃	lam
@@ -13486,6 +13609,7 @@ sort: original
 絆	bện
 絆	bộn
 絆	bợn
+絏	dây
 絏	giấy
 結	chắc
 結	cứt
@@ -13494,13 +13618,18 @@ sort: original
 結	kết
 結	kiết
 結	kít
+絞	giảo
+絡	lạc
+絡	rạc
 給	cấp
 給	cắp
 給	cướp
 給	cụp
 給	góp
+絨	nhung
 絬	thượt
 統	rúng
+統	thống
 統	thúng
 統	thủng
 絲	ti
@@ -13554,6 +13683,8 @@ sort: original
 締	đế
 締	đề
 締	rế
+緡	mân
+緡	mần
 緣	duyên
 編	biên
 緯	vĩ
@@ -13619,6 +13750,7 @@ sort: original
 繳	kiểu
 繳	nhào
 繳	nhàu
+繶	giấy
 繸	choai
 繸	choại
 繸	toại
@@ -13636,6 +13768,8 @@ sort: original
 缶	phẫu
 缶	phễu
 缶	quán
+缸	cong
+缸	hồng
 缺	khuyết
 缽	bát
 缾	bình
@@ -13754,6 +13888,7 @@ sort: original
 耗	gao
 耗	hao
 耗	hau
+耞	rội
 耨	nau
 耨	náu
 耨	nấu
@@ -13860,12 +13995,12 @@ sort: original
 胼	bĩnh
 能	hay
 能	năn
+能	nang
 能	nâng
 能	năng
 能	nấng
 能	nằng
 能	nưng
-能	VNotg
 脅	hiếp
 脱	thoát
 脱	thoắt
@@ -14060,6 +14195,9 @@ sort: original
 芻	xô
 芻	xù
 芼	mào
+芾	phật
+芾	phí
+芿	nhăng
 苑	oan
 苑	oản
 苑	uyển
@@ -14107,6 +14245,7 @@ sort: original
 茌	sè
 茌	sì
 茌	xè
+茙	ngồng
 茫	mang
 茫	màng
 茶	chà
@@ -14142,13 +14281,24 @@ sort: original
 荎	chuối
 荒	hoang
 荒	hoăng
+荔	lê
+荔	lệ
+荸	bụt
+荸	mụt
 荼	dưa
 荼	dừa
+莆	bo
 莊	trang
 莓	muối
+莖	hành
+莖	kinh
+莤	giậu
+莪	nga
+莪	ngò
 莫	mác
 莫	mạc
 莫	mếch
+莯	móc
 菊	cúc
 菊	guốc
 菟	đồ
@@ -14157,6 +14307,7 @@ sort: original
 菟	thỏ
 菩	bồ
 菩	mồ
+堇	đỏng
 華	hoa
 菱	lăng
 菱	năng
@@ -14181,7 +14332,7 @@ sort: original
 萬	vàn
 萬	vạn
 萬	vẹn
-萻	âm
+萻	ấm
 萻	om
 落	dạc
 落	lác
@@ -14309,6 +14460,8 @@ sort: original
 蕩	vảng
 蕷	dự
 蕷	nhựa
+薆	ái
+薆	ải
 薈	cói
 薈	hội
 薈	oái
@@ -14384,10 +14537,13 @@ sort: original
 虬	cầu
 虬	cù
 虬	gù
+虯	cú
+虯	cù
 虸	tửa
 蚕	tàm
 蚕	tằm
 蚕	tòm
+蚜	nhá
 蚤	tao
 蚤	tảo
 蚤	tau
@@ -14437,6 +14593,8 @@ sort: original
 蝎	rết
 蝎	rít
 蝎	yết
+蝩	đùn
+蝩	trùn
 蝳	nọc
 蝴	hà
 蝴	hồ
@@ -14523,6 +14681,7 @@ sort: original
 袍	bào
 袍	bâu
 袖	tụ
+袙	mặc
 袞	cổn
 袞	gọn
 袞	ngổn
@@ -14577,6 +14736,8 @@ sort: original
 襆	bốc
 襆	bọc
 襆	phục
+襌	đan
+襌	đơn
 襲	tập
 襵	chấp
 襵	nếp
@@ -15045,6 +15206,7 @@ sort: original
 贈	tặng
 贍	hiệm
 贍	thiệm
+贓	tang
 贖	chuộc
 贖	thục
 赤	chếch
@@ -15152,13 +15314,16 @@ sort: original
 跳	xiếu
 踏	đạp
 踏	đụp
+踔	xợt
 踖	tếch
 踖	tích
+踘	guốc
 踪	tong
 踪	tông
 踪	tung
 蹄	đế
 蹄	đề
+蹆	thủi
 蹇	kiển
 蹇	kiễng
 蹈	dạo
@@ -15211,6 +15376,8 @@ sort: original
 軟	nhung
 軟	nhuyễn
 軸	trục
+軿	bánh
+軿	biền
 載	tải
 載	tưởi
 輕	khênh
@@ -15345,6 +15512,7 @@ sort: original
 逋	bỗ
 逋	bù
 逋	phô
+逎	tù
 透	tấu
 透	thấu
 逐	chọc
@@ -15405,6 +15573,7 @@ sort: original
 逸	rặt
 逼	bức
 逼	bực
+逎	tùa
 逾	du
 逾	gió
 遁	dọn
@@ -15460,6 +15629,7 @@ sort: original
 遣	khiến
 遣	khiển
 遨	ngao
+逎	túa
 適	chếch
 適	thách
 適	thếch
@@ -15681,6 +15851,7 @@ sort: original
 鈐	kiềm
 鈐	kim
 鈐	kìm
+鈸	bạt
 鉊	chảo
 鉊	rìu
 鉋	bào
@@ -15852,6 +16023,7 @@ sort: original
 開	khai
 開	khơi
 開	khui
+閍	muôn
 閏	nhộn
 閏	nhuần
 閏	nhuận
@@ -16054,11 +16226,11 @@ sort: original
 離	lìa
 離	luy
 離	ly
+難	nan
 難	nàn
 難	nần
 難	nản
 難	nạn
-難	VNot
 雲	mây
 雲	vân
 雴	lụp
@@ -16139,6 +16311,8 @@ sort: original
 音	ậm
 音	om
 音	ơm
+韵	vần
+韵	vận
 韶	dìu
 韶	thèo
 韶	thều
@@ -16295,6 +16469,7 @@ sort: original
 馭	ngựa
 馴	thuần
 馴	tuần
+駁	bác
 駐	trọ
 駐	trú
 駒	câu
@@ -16451,6 +16626,8 @@ sort: original
 麝	xạ
 麟	lân
 麥	mạch
+麺	mì
+麺	miến
 麻	ma
 麻	mà
 麻	mé
@@ -16568,6 +16745,7 @@ sort: original
 𠍤	bụt
 𠍥	bợm
 𠍦	hèn
+僓	xấp
 𠍵	dáng
 𠍵	dạng
 𠍵	dường
@@ -16606,6 +16784,7 @@ sort: original
 𠓬	lặn
 𠓺	vô
 𥪞	trong
+㒷	hưng
 𠔦	lính
 𠔮	gồm
 𡗄	gom
@@ -16710,9 +16889,9 @@ sort: original
 𠬕	bỏ
 𠬠	mồn
 𠬠	một
+难	nan
 难	nàn
 难	nạn
-难	VNot
 𠮿	xôn
 𠮿	xốn
 𠯋	hề
@@ -16914,6 +17093,7 @@ sort: original
 𠷥	dành
 𠷥	đành
 𠷥	rình
+㖻	nhù
 𠸘	cục
 𠸘	tục
 㖸	ngước
@@ -16931,6 +17111,7 @@ sort: original
 𠸬	xầm
 𠸬	xùm
 𠷦	miếng
+㗞	phở
 𠸺	ngách
 𠸺	nghách
 𠸺	nguệch
@@ -17014,6 +17195,7 @@ sort: original
 𠽍	rầm
 𠽍	rân
 𠽍	rần
+嘞	dốc
 𠽕	thẹp
 𠻓	thòi
 𠼕	bài
@@ -17108,6 +17290,8 @@ sort: original
 𠿵	khắn
 𠿵	khắng
 𡁚	hớn
+㘃	nấc
+㘃	nức
 𡀪	vời
 𡀿	rú
 𡀿	rủ
@@ -17314,6 +17498,7 @@ sort: original
 𡕵	hè
 𡖡	nhóm
 𡖵	đêm
+夣	mọng
 𡖼	sánh
 夦	lắm
 𡗂	sai
@@ -17447,6 +17632,7 @@ sort: original
 𡶁	đùn
 𡵺	cù
 𡶨	ngàn
+訔	ngồn
 𡸏	vì
 𡸏	vòi
 𡸏	vọi
@@ -17633,6 +17819,8 @@ sort: original
 𢩉	cổng
 𢩊	quanh
 𢩤	mướn
+扖	nhấp
+扖	nhẹp
 𢩪	tríu
 𢩪	trìu
 𢩮	dác
@@ -17871,6 +18059,7 @@ sort: original
 𢵻	chữa
 𢵻	nhử
 𢶥	choảng
+撁	khiêng
 𢵫	đẹn
 𢵫	nện
 𢵱	khơi
@@ -17936,6 +18125,8 @@ sort: original
 𢺛	sởn
 𢺛	xởn
 𢺜	trạc
+㩹	bẹp
+㩹	dẹp
 𢺳	mân
 𢽼	và
 𢽼	vài
@@ -18111,6 +18302,9 @@ sort: original
 𣛧	chuôm
 𣛨	chèo
 𣛩	then
+橑	lạo
+橑	lèo
+橑	rều
 𣛪	tu
 𣛟	xanh
 𣛟	xinh
@@ -18159,10 +18353,10 @@ sort: original
 𣡝	vui
 𣡙	trái
 𣡚	trái
+𣡤	nan
 𣡤	nạng
 𣡤	nén
 𣡤	nướng
-𣡤	VNot
 𣡯	bẫy
 𣥱	trải
 𣦆	trải
@@ -18196,6 +18390,7 @@ sort: original
 𣳡	mồ
 𣳪	lượi
 𣳪	sữa
+㳝	nhẵm
 𣴙	đư
 𣴙	đừ
 𣵴	gâm
@@ -18281,6 +18476,7 @@ sort: original
 𣾿	oi
 𣽀	ngấu
 㵣	ướt
+㵧	cát
 𤀏	thía
 𤀔	ẩm
 𤀔	hẩm
@@ -18339,6 +18535,8 @@ sort: original
 𤇩	tắt
 𤇪	chín
 𤇪	đốt
+𤇢	chín
+𤇢	vặc
 𤇳	nhũn
 𤈝	nghẹ
 𤈟	nhừ
@@ -18398,6 +18596,7 @@ sort: original
 𤏥	thui
 𤎛	giấm
 𤎛	rấm
+𤏪	rao
 𤏫	buốt
 𤏫	vuột
 𤏬	rạng
@@ -18424,13 +18623,15 @@ sort: original
 𤖸	chấm
 𤖸	chũa
 𤖹	lớp
+𣽊	thốc
+𣽊	thỏi
 𤗲	tấm
 𤘁	mỏng
 𤘂	mòng
 𤘂	mỏng
 𤖡	rìu
 𤘋	ngà
-𤘓	VNoth
+𤘓	nanh
 𤚦	cộ
 𤚧	sao
 𤛞	nghé
@@ -18474,7 +18675,7 @@ sort: original
 𤠴	vượn
 𤠹	rái
 𤡚	khái
-𤡛	VNoth
+𤡛	nanh
 𤢇	voi
 𤢇	vuốt
 𤢔	nhen
@@ -18827,6 +19028,7 @@ sort: original
 𥪸	đứng
 𥫌	chỗi
 𥫌	trỗi
+贑	chạng
 𥫟	giễ
 𥫭	nứa
 䇛	chổi
@@ -18838,6 +19040,7 @@ sort: original
 𥬧	chũm
 𥬧	trùm
 𥬧	trũm
+䇮	sậy
 𥬩	nia
 𥬮	giang
 𥭌	trạc
@@ -18872,6 +19075,7 @@ sort: original
 𥱴	vó
 䉒	phên
 䉒	phiên
+䈧	vòi
 𥴘	mui
 𥴛	chòi
 𥳓	sáo
@@ -18900,7 +19104,7 @@ sort: original
 𥸆	liếp
 𥷺	mo
 𥷻	mây
-𥸁	VNot
+𥸁	nan
 𥸍	siểng
 𥸍	xiểng
 𥸒	nẳn
@@ -18994,6 +19198,7 @@ sort: original
 𦂺	ươm
 𦂻	luốt
 𦂻	luột
+緓	ính
 𦂼	giậm
 𦂽	đột
 𦂾	dệt
@@ -19013,6 +19218,8 @@ sort: original
 𦄆	may
 𦄇	niệt
 𦄇	nịt
+䌌	dập
+䌌	tập
 䌑	ken
 𦄌	chắp
 𦄓	xâu
@@ -19080,6 +19287,7 @@ sort: original
 𦜞	soạn
 𦜞	sụn
 𦜞	tốn
+䐏	xoan
 𦝥	sáp
 𦝥	xáp
 𦞍	cáy
@@ -19164,6 +19372,9 @@ sort: original
 𦪨	trẩy
 𦪐	sõng
 𦪦	xưởng
+艤	ghé
+艤	nghi
+艤	nghĩ
 𦪻	khoang
 𦪼	ghe
 𦮲	rễ
@@ -19193,6 +19404,7 @@ sort: original
 𦹺	rác
 𦹻	dâm
 𦹻	dầm
+蓢	ráng
 𦺓	giầu
 𦺓	trầu
 𦺓	triều
@@ -19298,6 +19510,7 @@ sort: original
 𧑅	vét
 𧒅	bướm
 𧒇	sâu
+𧑐	quít
 𧓅	nòng
 𧓇	riện
 𧒍	rùa
@@ -19376,6 +19589,7 @@ sort: original
 𧶬	đắt
 𧶮	cuả
 𧶮	của
+𧶄	dành
 𧷹	tậu
 𧸒	vỏi
 𧸒	vủi
@@ -19620,6 +19834,7 @@ sort: original
 𨬊	giáo
 𨬋	miếng
 𨬋	miểng
+鏓	sỏng
 𨭑	thuổng
 𨭒	choang
 𨮈	hom
@@ -19680,6 +19895,7 @@ sort: original
 𩁶	ngút
 𩂐	râm
 𩄏	bùng
+𩄒	ũm
 𩄔	xẩng
 𩄨	guốt
 𩄰	sét
@@ -19812,6 +20028,8 @@ sort: original
 𩷊	thu
 䱑	chiết
 䱑	giếc
+䱒	ấp
+䱒	ốp
 𩷕	lươn
 𩷕	lương
 𩷛	giếc
@@ -19882,6 +20100,8 @@ sort: original
 𩽤	sấu
 𩽥	lươn
 𩿙	quạ
+䲼	sảnh
+䲼	sinh
 𩿨	chi
 𩿨	khướu
 𪀐	bìm
@@ -19922,6 +20142,7 @@ sort: original
 𪃲	trả
 𪃴	gà
 𪃵	trả
+䳧	hâu
 𪄞	sô
 𪄞	sồ
 𪄥	cút
@@ -19976,6 +20197,7 @@ sort: original
 㖔	thôn
 㖔	xôn
 㖡	dạ
+㖺	xon
 㗀	u
 㗀	ù
 㗁	ngác
@@ -19999,11 +20221,14 @@ sort: original
 㘉	sịt
 㘉	tít
 㘉	xịt
+㘙	nghiến
+㘙	nhem
 㙁	mũi
 㙁	muối
 㛎	lỡ
 㛎	nhỡ
 㜥	mái
+㜮	lợm
 㝵	ngại
 㝵	ngày
 㝵	người
@@ -20013,6 +20238,7 @@ sort: original
 㦃	sẻn
 㦓	nhơn
 㦓	nhớn
+㦗	quặm
 㦡	lạc
 㦡	nhác
 㦡	nháo
@@ -20043,7 +20269,9 @@ sort: original
 㮩	tượt
 㮲	rọ
 㮲	su
+㮿	tắt
 㯖	đước
+㳄	khém
 㳹	uống
 㴜	biển
 㴷	đắm
@@ -20054,6 +20282,8 @@ sort: original
 㺝	nhím
 㾑	híp
 㾞	dấu
+㾯	òi
+㾯	ủi
 䁐	hiếng
 䁠	gằm
 䁠	gườm
@@ -20066,18 +20296,23 @@ sort: original
 䈵	ông
 䈵	ống
 䈹	tủ
+䊟	mẳn
 䋘	lòi
 䋘	rời
 䋘	sồi
 䐗	chả
 䐗	chửa
+䐠	hoăn
+䐠	hoẳn
 䒹	chồi
 䒹	chổi
 䓊	ngâu
 䓊	ngổ
 䓡	tre
+䕺	lùm
+䕺	tùng
+䕼	nan
 䕼	năn
-䕼	VNot
 䖡	chấu
 䖳	chạch
 䖳	trạch
@@ -20091,6 +20326,10 @@ sort: original
 䠏	quí
 䨔	quáng
 䨔	quầng
+䨙	dâm
+䱾	lâu
+䱾	lấu
+䴈	ụt
 亞	a
 亞	á
 仞	nhẩn
@@ -20153,6 +20392,7 @@ sort: original
 兒	nhẻ
 兒	nhi
 党	đảng
+冔	hu
 凰	hoàng
 凹	ao
 刦	cướp
@@ -20265,6 +20505,7 @@ sort: original
 嗂	rào
 嗂	reo
 嗇	sắc
+嗊	rống
 嗌	ách
 嗌	nhiếc
 嗘	hề
@@ -20280,6 +20521,7 @@ sort: original
 嘑	hô
 嘑	hú
 嘑	hừ
+嘒	toé
 嘓	khắc
 嘓	khoắc
 嘓	quác
@@ -20296,6 +20538,8 @@ sort: original
 噉	hám
 噉	ngoảm
 噽	vầy
+嚆	hao
+嚆	hau
 嚇	hách
 嘘	hờ
 嘘	hú
@@ -20306,8 +20550,8 @@ sort: original
 嘘	hự
 嘘	khư
 嘘	ơ
+囊	nang
 囊	nẵng
-囊	VNotg
 坫	chum
 坫	đám
 坫	điếm
@@ -20413,6 +20657,7 @@ sort: original
 崢	chênh
 崢	tranh
 崩	băng
+嵇	kê
 嵌	khảm
 嵿	đính
 嵿	đỉnh
@@ -20512,6 +20757,7 @@ sort: original
 慧	tuệ
 慶	khánh
 慶	khương
+憦	nhờn
 憪	nhờn
 憪	vỗ
 憮	nhàm
@@ -20599,6 +20845,7 @@ sort: original
 揇	nêm
 揇	nen
 揇	nên
+揌	tay
 換	hoán
 揲	đắp
 揲	dẹp
@@ -20641,6 +20888,9 @@ sort: original
 摻	thảm
 撊	dằn
 撊	giằn
+撋	giún
+撋	nhún
+撍	tròm
 撐	sanh
 撐	sênh
 撐	xanh
@@ -20758,6 +21008,7 @@ sort: original
 桐	đồng
 桐	trồng
 桓	hoàn
+桗	đoác
 梄	đậu
 梄	giậu
 梓	tử
@@ -20775,9 +21026,13 @@ sort: original
 棠	đường
 榭	tạ
 構	cấu
+槩	khái
 槹	cau
+樍	tích
 樵	tèo
 樵	tiều
+樿	đàn
+樿	thiện
 橄	cảm
 橄	cạm
 橐	thác
@@ -20794,6 +21049,7 @@ sort: original
 氽	thộn
 汚	ô
 汚	ố
+沬	vợi
 泖	máu
 泳	vạnh
 泳	vịnh
@@ -20834,6 +21090,8 @@ sort: original
 澳	ục
 濊	uế
 濊	uể
+瀵	bẩn
+瀵	phấn
 灲	sáng
 焯	chao
 焯	trác
@@ -20841,6 +21099,9 @@ sort: original
 熏	huân
 熏	hun
 熒	huỳnh
+燀	xên
+燀	xênh
+燀	xiển
 燖	tầm
 燖	tần
 營	dinh
@@ -20861,6 +21122,7 @@ sort: original
 犬	khuyển
 狸	li
 狸	ly
+猚	dơi
 猝	thốt
 猝	thút
 猝	tót
@@ -20955,6 +21217,7 @@ sort: original
 祖	tổ
 秦	tần
 秦	tằn
+秲	đòng
 稍	rảo
 稍	sáo
 稍	sảo
@@ -20987,10 +21250,14 @@ sort: original
 窩	oa
 笑	téo
 笑	tiếu
+笮	sịa
 箒	chổi
 箒	chửu
 箒	nhủi
 箒	trửu
+箚	cháp
+箚	chép
+箚	trắp
 箻	sọt
 箻	sột
 範	phạm
@@ -21114,6 +21381,7 @@ sort: original
 腊	tích
 腏	chuối
 腏	xuyết
+腜	môi
 腮	tai
 腸	tràng
 腸	trướng
@@ -21153,16 +21421,23 @@ sort: original
 茴	gồi
 茴	hồi
 荐	tiến
+荱	váy
 荷	hầu
 莘	sân
 莘	sần
 莘	sằn
 莘	sẳn
 莘	tân
+莩	bẽo
+莩	bễu
+莩	bệu
 菲	phi
 菲	phỉ
 菲	phơ
+菷	trứu
+菷	trửu
 萃	tuỵ
+萶	xuân
 葑	phong
 葚	rậm
 葚	rặm
@@ -21181,6 +21456,8 @@ sort: original
 蕭	tiêu
 蕯	sát
 蕯	tát
+蕽	nông
+蕽	nùn
 薄	bạc
 薟	hiên
 薟	kiểm
@@ -21201,6 +21478,8 @@ sort: original
 蘭	lơn
 蘸	chấm
 蘸	trám
+虖	hô
+虖	hố
 虜	lỗ
 虜	lũ
 虮	cơ
@@ -21296,6 +21575,7 @@ sort: original
 豫	dự
 貂	điêu
 貉	lạc
+貊	mạch
 貌	mạo
 貸	rải
 貸	thãi
@@ -21309,6 +21589,7 @@ sort: original
 賜	tứ
 賠	bồi
 賠	bù
+賡	canh
 賸	dắng
 賸	thặng
 贊	tán
@@ -21334,6 +21615,7 @@ sort: original
 蹬	đắng
 蹬	đặng
 𨅐	què
+躕	trù
 躡	dép
 躡	nép
 躡	nếp
@@ -21437,6 +21719,7 @@ sort: original
 鏟	xẻng
 鐃	nao
 鐃	nạo
+鐛	cảnh
 鑛	khoan
 鑛	khoáng
 鑛	quặng
@@ -21490,6 +21773,7 @@ sort: original
 鞦	thu
 鞦	thư
 鞸	tất
+韈	miệt
 韓	hàn
 韜	thao
 頒	ban
@@ -21526,9 +21810,11 @@ sort: original
 髴	phật
 鬱	uất
 魏	nguỵ
+魬	ngác
 鮎	chẻm
 鮎	niềm
 鮧	dìa
+鮻	giao
 鮽	dư
 鮽	đù
 鮽	dưa
@@ -21536,10 +21822,13 @@ sort: original
 鰾	bào
 鰾	biểu
 鰾	sặt
+鱆	cháng
 鱉	bét
 鱉	biết
 鱉	miết
 鱷	ngạc
+鴂	quạch
+鴂	quyết
 鴆	chũm
 鴆	trấm
 鴈	nhàn
@@ -23556,7 +23845,7 @@ sort: original
 𱫻	nến
 𪹣	hơ
 𪹰	nàn
-𪹰	VNotg
+𪹰	nang
 𪹪	úa
 𬋆	rèn
 𬋌	rạng
@@ -23574,7 +23863,7 @@ sort: original
 𬋫	vẻn
 𪺓	dành
 𬋰	vuốt
-𪺖	VNoth
+𪺖	nanh
 𬋳	bấu
 𪺘	tranh
 𬋼	dương
@@ -24568,7 +24857,7 @@ sort: original
 𬹰	vòi
 𬹷	vổ
 𲎣	răng
-𫜧	VNoth
+𫜧	nanh
 𬹸	răng
 𬹹	sún
 㬿	trôn
@@ -26608,11 +26897,11 @@ sort: original
 ⺊	bốc
 𮢶	tạc
 𮤭	mọn
+𮥷	nan
 𮥷	nàn
 𮥷	năn
 𮥷	nạn
-𮥷	VNot
-𮥷	VNotg
+𮥷	nang
 𮫷	cấn
 嵮	ngăn
 直	chực
@@ -27110,7 +27399,9 @@ sort: original
 俶	thục
 俻	bị
 俾	tỉ
+倅	thối
 倅	tôi
+倅	tốt
 倌	quán
 倎	đến
 倏	thúc
@@ -27524,6 +27815,7 @@ sort: original
 启	khởi
 启	khui
 吶	niệt
+吶	nói
 吶	nột
 吽	hống
 呅	van
@@ -27805,7 +28097,7 @@ sort: original
 囈	nghệ
 囋	toản
 囌	tô
-囔	VNotg
+囔	nang
 囗	vi
 囘	hòi
 囘	hồi
@@ -30279,8 +30571,8 @@ sort: original
 狒	phí
 狓	bẽ
 狙	thư
+狞	nanh
 狞	ninh
-狞	VNoth
 狠	ngận
 狩	thú
 狫	lào
@@ -31731,6 +32023,8 @@ sort: original
 节	tít
 节	tịt
 芄	hoàn
+芇	miên
+芇	miện
 芊	thiên
 芋	vu
 芛	duẫn
@@ -33181,6 +33475,7 @@ sort: original
 郛	phù
 郝	hác
 鄂	ngạc
+鄉	hương
 鄒	trâu
 鄢	yên
 鄹	trâu
@@ -34625,7 +34920,7 @@ sort: original
 鼾	han
 齁	câu
 齆	ung
-齉	VNotg
+齉	nang
 齏	tê
 齐	chay
 齐	tày
@@ -34672,3 +34967,4 @@ sort: original
 逸	giặt
 﨩	đảo
 﨩	láo
+

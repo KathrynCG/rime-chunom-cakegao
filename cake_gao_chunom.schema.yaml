@@ -45,6 +45,13 @@ menu:
   page_size: 9
   alternative_select_keys: "123456789"
 
+style:
+  font_face: "Nom Na Tong"
+  font_point: 24 #字號
+  label_format: '%s'  # 候選標籤格式
+  horizontal: true #橫／直排
+
+
 speller:
   alphabet: qwertyuiopasdfghjklzxcvbnm
   delimiter: " '"
@@ -961,13 +968,11 @@ translator:
     - xform/or/ỏ/
     - xform/os/ó/
     - xform/ow/ơ/
-    - xform/ow/ơ/
     - xform/ox/õ/
     - xform/uf/ù/
     - xform/uj/ụ/
     - xform/ur/ủ/
     - xform/us/ú/
-    - xform/uw/ư/
     - xform/uw/ư/
     - xform/ux/ũ/
     - xform/yf/ỳ/
@@ -975,6 +980,11 @@ translator:
     - xform/yr/ỷ/
     - xform/ys/ý/
     - xform/yx/ỹ/
+    - derive/wf/ừ/
+    - derive/ws/ứ/
+    - derive/wr/ử/
+    - derive/wx/ữ/
+    - derive/wj/ự/
     - derive/w/ư/
     - derive/f/ph/
   spelling_hints: 5

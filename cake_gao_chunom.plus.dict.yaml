@@ -7,1959 +7,1198 @@ version: "1.0.0"
 sort: original
 ...
 
-阿	a
-亞	á
-亜	á
-埃	ai
-陰	âm
-音	âm
-阴	âm
-萻	ấm
-安	an
-案	án
-恩	ân
-𩛖	ăn
-咹	ăn
-英	anh
-偀	anh
-影	ảnh
-襖	áo
-奥	áo
-壓	áp
-歐	âu
-𧘇	ấy
-𠀧	ba
-爸	ba
-婆	bà
-妑	bà
-伯	bác
-北	bắc
-鉑	bạc
-班	ban
-𧸝	bán
-半	bán
-盤	bàn
-搬	bàn
-盘	bàn
-本	bản
-版	bản
-伴	bạn
-邦	bang
-憑	bằng
-朋	bằng
-凭	bằng
-包	bao
-報	báo
-保	bảo
-𠸒	bảo
-不	bất
-扒	bắt
-𠖤	bay
-𣊾	bây
-悲	bây
-𦉱	bảy
-呸	bậy
-𡮣	bé
-边	bên
-病	bệnh
-被	bị
-備	bị
-𣷷	biển
-别	biết
-評	bình
-平	bình
-瓶	bình
-𤙭	bò
-布	bố
-佈	bố
-𢂞	bố
-𠬃	bỏ
-部	bộ
-步	bộ
-𤳄	bởi
-𦊚	bốn
-䏾	bóng
-葻	bông
-䏾	bụng
-𣇜	buổi
-𩵜	cá
-哿	cả
-各	các
-格	cách
-革	cách
-丐	cái
-改	cải
-感	cảm
-感恩	cámƠn
-感恩	cảmƠn
-斤	cân
-勤	cần
-近	cận
-景	cảnh
-警	cảnh
-高	cao
-級	cấp
-急	cấp
-及	cập
-割	cắt
-句	câu
-求	cầu
-𣘃	cây
-吒	cha
-蹎	chân
-嘲	chào
-執	chấp
-执	chấp
-𡥙	cháu
-珠	châu
-洲	châu
-𧼋	chạy
-製	chế
-制	chế
-支	chi
-志	chí
-只	chỉ
-𥿗	chỉ
-指	chỉ
-姉	chị
-𢺺	chia
-隻	chiếc
-戰	chiến
-朝	chiều
-𪀄	chim
-𠃩	chín
-正	chính
-政	chính
-朱	cho
-𨔈	chơi
-注	chú
-主	chủ
-𡨸	chữ
-𡦂	chữ
-主	chúa
-𣗓	chưa
-渚	chưa
-織	chức
-眾	chúng
-證	chứng
-章	chương
-𡀯	chuyện
-固	có
-姑	cô
-機	cơ
-基	cơ
-机	cơ
-古	cổ
-旗	cờ
-碁	cờ
-䁛	coi
-𡎝	cõi
-粓	cơm
-𡥵	con
-群	còn
-工	công
-公	công
-功	công
-共	cộng
-𫇰	cũ
-拠	cứ
-舉	cử
-𧵑	của
-𨷶	cửa
-𨴦	cửa
-共	cùng
-拱	cũng
-局	cuộc
-唭	cười
-究	cứu
-䏧	da
-唯	dạ
-多	đa
-跢	đá
-𥒥	đá
-㐌	đã
-𨱽	dài
-大	đại
-代	đại
-民	dân
-旦	đán
-彈	đàn
-當	đang
-黨	đảng
-党	đảng
-名	danh
-打	đánh
-島	đảo
-道	đạo
-𢩮	dắt
-坦	đất
-油	dầu
-兜	đâu
-鬥	đấu
-斗	đấu
-頭	đầu
-投	đầu
-絏	dây
-𧿆	dãy
-𠰺	dạy
-低	đây
-易	dễ
-題	đề
-提	đề
-底	để
-第	đệ
-𨑻	đem
-畑	đèn
-𦤾	đến
-𢢲	đẹp
-調	đều
-𠫾	đi
-地	địa
-譯	dịch
-點	điểm
-典	điển
-電	điện
-條	điều
-条	điều
-庭	đình
-定	định
-由	do
-妬	đó
-圖	đồ
-途	đồ
-𧹼	đỏ
-拖	đỡ
-度	độ
-營	doanh
-营	doanh
-讀	đọc
-獨	độc
-對	đối
-对	đối
-𢷮	đổi
-𢬭	đổi
-𠁀	đời
-隊	đội
-東	đông
-同	đồng
-銅	đồng
-垌	đồng
-動	động
-𠶢	dù
-預	dự
-豫	dựa
-迻	đưa
-德	đức
-用	dùng
-用	dụng
-𥩯	dựng
-藥	dược
-得	được
-𤲂	dưới
-洋	dương
-塘	đường
-糖	đường
-堂	đường
-㛪	em
-𡛔	gái
-𧵆	gần
-急	gấp
-𢲧	gây
-咦	gì
-之	gì
-家	gia
-加	gia
-價	giá
-价	giá
-𦓅	già
-解	giải
-間	gian
-交	giao
-教	giáo
-夾	giáp
-紙	giấy
-紙影	giấyẢnh
-𩙌	gió
-𩙋	gió
-𣇞	giờ
-界	giới
-𡨹	giữ
-𡨌	giữa
-𠢞	giúp
-噲	gọi
-河	hà
-核	hạch
-𠄩	hai
-海	hải
-漢	hán
-限	hạn
-恨	hận
-行	hàng
-航	hàng
-行	hãng
-幸	hạnh
-杏	hạnh
-後	hậu
-咍	hay
-係	hệ
-系	hệ
-歇	hết
-險	hiểm
-現	hiện
-曉	hiểu
-形	hình
-形影	hìnhẢnh
-互	hỗ
-戶	họ
-户	họ
-花	hoa
-華	hoa
-化	hoá
-和	hoà
-或	hoặc
-學	học
-学	học
-悔	hối
-𠳨	hỏi
-會	hội
-会	hội
-𣋚	hôm
-歆	hôm
-𡉕	hòn
-欣	hơn
-紅	hồng
-盒	hộp
-合	hợp
-籺	hột
-香	hương
-鄉	hương
-響	hưởng
-印	in
-𠃣	ít
-𠸥	kể
-計	kể
-結	kết
-呌	kêu
-叫	kêu
-恪	khác
-客	khách
-巾	khăn
-考	khảo
-泣	khắp
-口	khẩu
-欺	khi
-氣	khí
-𧁷	khó
-苦	khổ
-科	khoa
-劸	khoẻ
-空	không
-孔	khổng
-區	khu
-劍	kiếm
-見	kiến
-件	kiện
-經	kinh
-経	kinh
-奇	kỳ
-期	kỳ
-圻	kỳ
-紀	kỷ
-羅	là
-吏	lại
-𫜵	làm
-林	lâm
-𡗋	lắm
-蘭	lan
-吝	lần
-領	lãnh
-立	lập
-𥙩	lấy
-禮	lễ
-礼	lễ
-𨖲	lên
-曆	lịch
-歷	lịch
-厤	lịch
-連	liên
-聯	liên
-料	liệu
-類	loại
-纇	lỗi
-𠳒	lời
-𡘯	lớn
-龍	long
-𢚸	lòng
-焒	lửa
-論	luận
-律	luật
-𣅶	lúc
-力	lực
-量	lượng
-李	lý
-理	lý
-媽	má
-𦓡	mà
-麻	mà
-默	mặc
-埋	mai
-命	mạng
-孟	mạnh
-𠅍	mất
-眜	mắt
-𩈘	mặt
-𧖱	máu
-牟	màu
-𣛠	máy
-𩄲	mây
-𠇍	mấy
-媄	mẹ
-沔	miền
-明	minh
-𠵴	mình
-媒	môi
-每	mỗi
-𤞦	mọi
-㵋	mới
-𠬠	một
-没	một
-𧷸	mua
-𩅹	mưa
-目	mục
-味	mùi
-𨑮	mười
-㦖	muốn
-悶	muốn
-美	mỹ
-南	nam
-𠄼	năm
-𢆥	năm
-能	năng
-芇	nào
-𠉞	nay
-呢	này
-尼	này
-𢧚	nên
-𡀮	nếu
-𠮩	nếu
-𠊚	ngài
-𠦳	ngàn
-銀	ngân
-𥐉	ngắn
-𣦍	ngay
-𣈜	ngày
-𦖑	nghe
-藝	nghề
-芸	nghề
-義	nghĩa
-研	nghiên
-業	nghiệp
-𠦳	nghìn
-外	ngoài
-瓦	ngói
-𤯆	ngon
-言	ngôn
-五	ngũ
-𥄬	ngủ
-語	ngữ
-𠊛	người
-危	nguy
-元	nguyên
-阮	nguyễn
-茹	nhà
-樂	nhạc
-人	nhân
-仁	nhân
-認	nhận
-茹於	nhàỞ
-入	nhập
-一	nhất
-日	nhật
-膮	nhau
-二	nhì
-然	nhiên
-饒	nhiêu
-𡗉	nhiều
-𥆾	nhìn
-𡮈	nhỏ
-𢖵	nhớ
-呫	nhóm
-如	như
-仍	nhưng
-仍	những
-年	niên
-伮	nó
-奴	nó
-呐	nói
-吶	nói
-坭	nơi
-内	nội
-喃	nôm
-嫩	non
-𡽫	non
-女	nữ
-女	nữa
-𡶀	núi
-渃	nước
-於	ở
-恩	ơn
-翁	ông
-沛	phải
-品	phẩm
-犯	phạm
-分	phân
-分	phần
-反	phản
-法	pháp
-發	phát
-佛	phật
-𥽢	phèn
-飛	phi
-鋪	phố
-房	phòng
-防	phòng
-府	phủ
-方	phương
-坊	phường
-戈	qua
-過	quá
-果	quả
-關	quan
-觀	quan
-関	quan
-軍	quân
-光	quang
-國	quốc
-跪	quỳ
-權	quyền
-权	quyền
-決	quyết
-瓊	quỳnh
-𦋦	ra
-哴	rằng
-浪	rằng
-慄	rất
-耒	rồi
-龍	rồng
-色	sắc
-冊	sách
-册	sách
-産	sản
-𤎜	sáng
-牢	sao
-𡢐	sau
-𦒹	sáu
-𠱊	sẽ
-𢩿	sẻ
-蓮	sen
-士	sĩ
-生	sinh
-数	số
-炊	sôi
-𥾘	sợi
-山	sơn
-𤯩	sống
-師	sư
-使	sứ
-史	sử
-事	sự
-些	ta
-作	tác
-才	tài
-財	tài
-材	tài
-在	tại
-𠔭	tám
-心	tâm
-暫	tạm
-造	tạo
-毕	tất
-必	tất
-畢	tất
-艚	tàu
-𢬣	tay
-西	tây
-際	tế
-濟	tế
-际	tế
-济	tế
-𠸜	tên
-𥏌	tên
-節	tết
-太	thái
-参	tham
-貪	tham
-參	tham
-身	thân
-神	thần
-𣎃	tháng
-青	thanh
-清	thanh
-聲	thanh
-城	thành
-成	thành
-誠	thành
-十	thập
-失	thất
-實	thật
-台	thay
-𧡊	thấy
-偨	thầy
-替	thế
-世	thế
-勢	thế
-體	thể
-体	thể
-添	thêm
-遶	theo
-詩	thi
-試	thi
-時	thì
-視	thị
-市	thị
-示	thị
-適	thích
-釋	thích
-天	thiên
-寔	thiệt
-少	thiếu
-土	thổ
-時	thời
-聰	thông
-通	thông
-聪	thông
-統	thống
-秋	thu
-首	thủ
-手	thủ
-書	thư
-次	thứ
-試	thử
-此	thử
-術	thuật
-朮	thuật
-式	thức
-屬	thuộc
-傷	thương
-常	thường
-上	thượng
-水	thuỷ
-船	thuyền
-惜	tiếc
-店	tiệm
-仙	tiên
-先	tiên
-前	tiền
-錢	tiền
-㗂	tiếng
-接	tiếp
-節	tiết
-椒	tiêu
-小	tiểu
-尋	tìm
-信	tin
-精	tinh
-併	tính
-情	tình
-省	tỉnh
-𡚢	to
-組	tổ
-祖	tổ
-伵	tớ
-算	toán
-全	toàn
-倅	tôi
-碎	tôi
-最	tối
-細	tới
-總	tổng
-查	tra
-茶	trà
-呂	trả
-𤳆	trai
-賴	trái
-𣛤	trái
-𤾓	trăm
-陳	trần
-陣	trận
-妝	trang
-𦝄	trăng
-𤽸	trắng
-呂恩	trảƠn
-𥘷	trẻ
-𨕭	trên
-置	trí
-治	trị
-値	trị
-展	triển
-朝	triều
-兆	triệu
-呈	trình
-程	trình
-𧿨	trở
-助	trợ
-𡗶	trời
-𥪝	trong
-𤄯	trong
-重	trọng
-中	trung
-𠓀	trước
-張	trương
-場	trường
-長	trường
-長	trưởng
-傳	truyền
-傳	truyện
-四	tư
-詞	từ
-自	từ
-子	tử
-自	tự
-字	tự
-俗	tục
-息	tức
-倅	tui
-碎	tui
-歲	tuổi
-將	tướng
-雖	tuy
-司	ty
-㕵	uống
-吧	và
-文	văn
-問	vấn
-吻	vẫn
-萬	vạn
-万	vạn
-鐄	vàng
-𠳐	vâng
-𠓨	vào
-物	vật
-丕	vậy
-𧗱	về
-衛	vệ
-爲	vì
-為	vì
-味	vị
-位	vị
-役	việc
-員	viên
-院	viện
-曰	viết
-越	việt
-無	vô
-𡞕	vợ
-𢭲	vói
-貝	với
-唄	với
-務	vụ
-𤤰	vua
-𣃣	vừa
-域	vực
-𢝙	vui
-王	vương
-賖	xa
-舍	xá
-社	xã
-𩇢	xanh
-撑	xanh
-𡏦	xây
-仕	xảy
-車	xe
-䀡	xem
-吀	xin
-𠸗	xưa
-出	xuất
-𨑜	xuống
-意	ý
-𢞅	yêu
-要	yêu
-要	yếu
-亞洲	á châu
-亜洲	á châu
-亞東	á đông
-亜東	á đông
-阿片	a phiến
-埃埃	ai ai
-音響	âm hưởng
-陰曆	âm lịch
-阴厤	âm lịch
-音樂	âm nhạc
-音節	âm tết
-音聲	âm thanh
-殷勤	ân cần
-𩛖粓	ăn cơm
-咹粓	ăn cơm
-印度	ấn độ
-印劍	ấn kiếm
-恩人	ân nhân
-𩛖試	ăn thử
-咹試	ăn thử
-恩情	ân tình
-偀姉	anh chị
-偀㛪	anh em
-偀戶	anh họ
-偀户	anh họ
-影響	ảnh hưởng
-影焒	ảnh lửa
-英國	anh quốc
-襖𨱽	áo dài
-壓力	áp lực
-歐洲	âu châu
-歐羅	âu là
-婆𡥵	bà con
-妑𡥵	bà con
-爸媽	ba má
-婆外	bà ngoại
-妑外	bà ngoại
-婆内	bà nội
-妑内	bà nội
-北圻	bắc kỳ
-北美	bắc mỹ
-伯士	bác sĩ
-半音	bán âm
-盤𩛖	bàn ăn
-盘咹	bàn ăn
-盤蹎	bàn chân
-盘蹎	bàn chân
-盤碁	bàn cờ
-盘碁	bàn cờ
-伴𫇰	bạn cũ
-半島	bán đảo
-班頭	ban đầu
-版圖	bản đồ
-本营	bản doanh
-本營	bản doanh
-搬交	bàn giao
-盤紙	bàn giấy
-盘紙	bàn giấy
-盤論	bàn luận
-盘論	bàn luận
-班𣈜	ban ngày
-盤𦋦	bàn ra
-盘𦋦	bàn ra
-班𤎜	ban sáng
-盤𢬣	bàn tay
-盘𢬣	bàn tay
-班最	ban tối
-伴鐄	bạn vàng
-憑證	bằng chứng
-凭證	bằng chứng
-包紙	bao giấy
-包𣇞	bao giờ
-保險	bảo hiểm
-保領	bảo lãnh
-包饒	bao nhiêu
-包𢬣	bao tay
-保全	bảo toàn
-保助	bảo trợ
-保衛	bảo vệ
-扒頭	bắt đầu
-不幸	bất hạnh
-不仁	bất nhân
-不常	bất thường
-𣊾𣇞	bây giờ
-悲𣇞	bây giờ
-𣊾饒	bây nhiêu
-悲饒	bây nhiêu
-𡮣𡥵	bé con
-边外	bên ngoài
-边沛	bên phải
-边賴	bên trái
-病院	bệnh viện
-被動	bị động
-𣷷東	biển đông
-别包	biết bao
-别兜	biết đâu
-别条	biết điều
-别條	biết điều
-别𩈘	biết mặt
-平安	bình an
-評論	bình luận
-平常	bình thường
-瓶水	bình thuỷ
-𠬃𧼋	bỏ chạy
-𠬃𠫾	bỏ đi
-步隊	bộ đội
-步行	bộ hành
-𠬃空	bỏ không
-𠬃默	bỏ mặc
-𢂞媄	bố mẹ
-𠬃戈	bỏ qua
-部首	bộ thủ
-佈陣	bố trận
-部長	bộ trưởng
-𤳄爲	bởi vì
-𤳄為	bởi vì
-𦊚方	bốn phương
-䏾畑	bóng đèn
-䏾𩙋	bóng gió
-䏾𩙌	bóng gió
-葻花	bông hoa
-葻蘭	bông lan
-葻蓮	bông sen
-䏾𦝄	bóng trăng
-𣇜𤎜	buổi sáng
-𣇜最	buổi tối
-𩵜𣷷	cá biển
-𩵜垌	cá đồng
-𩵜鐄	cá vàng
-各伴	các bạn
-各位	các vị
-格𫜵	cách làm
-革命	cách mạng
-改革	cải cách
-丐妬	cái đó
-丐咦	cái gì
-丐之	cái gì
-丐呢	cái này
-丐尼	cái này
-改組	cải tổ
-感𧡊	cảm thấy
-感傷	cảm thương
-近代	cận đại
-近視	cận thị
-斤書	cân thư
-勤要	cần yếu
-景情	cảnh tình
-景物	cảnh vật
-警衛	cảnh vệ
-高級	cao cấp
-高𢢲	cao đẹp
-高點	cao điểm
-高上	cao thượng
-高賖	cao xa
-急時	cấp thời
-句𠳨	câu hỏi
-求吀	cầu xin
-𣘃数	cây số
-𣘃曰	cây viết
-吒媄	cha mẹ
-蹎𩄲	chân mây
-蹎𢬣	chân tay
-執政	chấp chính
-执政	chấp chính
-執行	chấp hành
-执行	chấp hành
-洲亞	châu á
-洲亜	châu á
-洲歐	châu âu
-𧼋步	chạy bộ
-𧼋遶	chạy theo
-製度	chế độ
-制度	chế độ
-製品	chế phẩm
-制品	chế phẩm
-製作	chế tác
-制作	chế tác
-製造	chế tạo
-制造	chế tạo
-姉㛪	chị em
-指数	chỉ số
-指示	chỉ thị
-𢺺𢩿	chia sẻ
-𢺺𢬣	chia tay
-戰船	chiến thuyền
-戰陣	chiến trận
-朝高	chiều cao
-朝𨱽	chiều dài
-政黨	chính đảng
-政党	chính đảng
-政府	chính phủ
-正體	chính thể
-正体	chính thể
-正式	chính thức
-政治	chính trị
-朱别	cho biết
-朱𢧚	cho nên
-𨔈𡨸	chơi chữ
-𨔈𡦂	chơi chữ
-呫長	chóm trưởng
-主題	chủ đề
-𡨸漢	chữ hán
-𡦂漢	chữ hán
-𡨸眜	chữ mắt
-𡦂眜	chữ mắt
-主人	chủ nhân
-主日	chủ nhật
-𡨸喃	chữ nôm
-𡦂喃	chữ nôm
-主體	chủ thể
-主体	chủ thể
-注釋	chú thích
-主治	chủ trị
-𡨸曰	chữ viết
-𡦂曰	chữ viết
-注意	chú ý
-眾些	chúng ta
-眾倅	chúng tôi
-眾碎	chúng tôi
-章程	chương trình
-𡀯情	chuyện tình
-基本	cơ bản
-古典	cổ điển
-固條	có điều
-固条	có điều
-姑教	cô giáo
-機會	cơ hội
-机会	cơ hội
-固欺	có khi
-固理	có lý
-機關	cơ quan
-机関	cơ quan
-固權	có quyền
-固权	có quyền
-固體	có thể
-固体	có thể
-機體	cơ thể
-机体	cơ thể
-固歲	có tuổi
-䁛常	coi thương
-𡥵𡮣	con bé
-𡥵𡛔	con gái
-群吏	còn lại
-𡥵𠬠	con một
-𡥵𠊛	con người
-𡥵𤳆	con trai
-公安	công an
-公佈	công bố
-共同	cộng đồng
-共和	cộng hoà
-工藝	công nghệ
-工芸	công nghệ
-工業	công nghiệp
-工人	công nhân
-公認	công nhận
-共産	cộng sản
-工作	công tác
-公式	công thức
-公司	công ty
-工役	công việc
-公社	công xã
-拠點	cứ điểm
-舉行	cử hành
-舉人	cử nhân
-𧵑公	của công
-𨷶行	cửa hàng
-𨴦行	cửa hàng
-𨷶数	cửa sổ
-𨴦数	cửa sổ
-局𠁀	cuộc đời
-𥒥花	đá hoa
-𥒥焒	đá lửa
-多分	đa phần
-䏧屬	da thuộc
-多値	đa trị
-唯𠳐	dạ vâng
-特點	đặc điểm
-大營	đại doanh
-大营	đại doanh
-大學	đại học
-大学	đại học
-大使	đại sứ
-彈婆	đàn bà
-彈妑	đàn bà
-民主	dân chủ
-民舉	dân cử
-彈翁	đàn ông
-民權	dân quyền
-民权	dân quyền
-民数	dân số
-民事	dân sự
-民衛	dân vệ
-黨史	đảng sử
-党史	đảng sử
-黨治	đảng trị
-党治	đảng trị
-黨長	đảng trưởng
-党長	đảng trưởng
-打動	đánh động
-打價	đánh giá
-打价	đánh giá
-打𣛠	đánh máy
-打膮	đánh nhau
-打式	đánh thức
-名詞	danh từ
-道佛	đạo phật
-坦客	đất khách
-油𩛖	dầu ăn
-油咹	dầu ăn
-兜固	đâu có
-投機	đầu cơ
-投机	đầu cơ
-鬥跢	đấu đá
-兜低	đâu đây
-鬥價	đấu giá
-鬥价	đấu giá
-頭𣎃	đầu tháng
-頭先	đầu tiên
-𠰺保	dạy bảo
-絏電	dây điện
-𠰺學	dạy học
-𠰺学	dạy học
-𧿆𡶀	dãy núi
-提高	đề cao
-提及	đề cập
-底朱	để cho
-第一	đệ nhất
-第二	đệ nhì
-提防	đề phòng
-題材	đề tài
-易傷	dễ thương
-易常	dễ thường
-題出	đề xuất
-畑電	đèn điện
-𦤾坭	đến nơi
-𢢲𢚸	đẹp lòng
-𢢲𤳆	đẹp trai
-𢢲意	đẹp ý
-調拱	đều cũng
-調膮	đều nhau
-𠫾步	đi bộ
-𠫾蹎	đi chân
-𠫾𨔈	đi chơi
-𠫾𫜵	đi làm
-𠫾戈	đi qua
-𠫾𦋦	đi ra
-𠫾遶	đi theo
-𠫾𠓨	đi vào
-𠫾𧗱	đi về
-地點	địa điểm
-地方	địa phương
-地域	địa vực
-役務	dịch vụ
-電子	điện tử
-條件	điều kiện
-条件	điều kiện
-調查	điều tra
-定料	định liệu
-定義	định nghĩa
-圖𨔈	đồ chơi
-拖頭	đỡ đầu
-拖𠳒	đỡ lời
-圖物	đồ vật
-營業	doanh nghiệp
-营業	doanh nghiệp
-營数	doanh số
-营数	doanh số
-獨立	độc lập
-讀册	đọc sách
-讀冊	đọc sách
-獨身	độc thân
-隊形	đội hình
-𢷮㵋	đổi mới
-𢬭㵋	đổi mới
-隊軍	đội quân
-𠁀𤯩	đời sống
-隊長	đội trưởng
-同音	đồng âm
-銅鉑	đồng bạc
-垌平	đồng bằng
-動坦	động đất
-東藥	đông dược
-東洋	đông dương
-同義	đồng nghĩa
-動詞	động từ
-動物	động vật
-同意	đồng ý
-預案	dự án
-預報	dự báo
-預支	dự chi
-預定	dự định
-預見	dự kiến
-𠶢哴	dù rằng
-𠶢浪	dù rằng
-𠶢牢	dù sao
-豫𨕭	dựa trên
-德行	đức hạnh
-德信	đức tin
-藥典	dược điển
-藥學	dược học
-藥学	dược học
-藥料	dược liệu
-藥品	dược phẩm
-藥房	dược phòng
-藥士	dược sĩ
-塘𠫾	đường đi
-糖𥽢	đường phèn
-塘鋪	đường phố
-唯一	duy nhất
-㛪𡮣	em bé
-𧵆賖	gần xa
-𢲧戰	gây chiến
-𢲧𡀯	gây chuyện
-𢲧𥩯	gây dựng
-𦓅哿	già cả
-家景	gia cảnh
-家庭	gia đình
-𦓅𠁀	già đời
-價眜	giá mắt
-价眜	giá mắt
-加入	gia nhập
-價値	giá trị
-价値	giá trị
-加味	gia vị
-𦓅要	già yếu
-解義	giải nghĩa
-解決	giải quyết
-解釋	giải thích
-教堂	giáo đường
-交行	giao hàng
-教師	giáo sư
-教員	giáo viên
-教務	giáo vụ
-夾戰	giáp chiến
-夾界	giáp giới
-夾籺	giáp hạt
-夾𩈘	giáp mặt
-紙鉑	giấy bạc
-紙報	giấy báo
-紙印	giấy in
-𣇞低	giờ đây
-𩙌東	gió đông
-𩙋東	gió đông
-𩙌𩅹	gió mưa
-𩙋𩅹	gió mưa
-𩙌𦝄	gió trăng
-𩙋𦝄	gió trăng
-界限	giới hạn
-𡨹𠳒	giữ lời
-𡨹𢚸	giữ lòng
-𡨹𠰘	giữ miệng
-𡨹意	giữ ý
-𠢞拖	giúp đỡ
-噲𨷶	gọi cửa
-噲𨴦	gọi cửa
-噲羅	gọi là
-河内	hà nội
-核仁	hạch nhân
-海口	hải khẩu
-海南	hải nam
-海外	hải ngoại
-海關	hải quan
-海関	hải quan
-海軍	hải quân
-漢文	hán văn
-漢越	hán việt
-行𡨸	hàng chữ
-行𡦂	hàng chữ
-航海	hàng hải
-航空	hàng không
-行客	hành khách
-杏仁	hạnh nhân
-籺珠	hạt châu
-籺𩅹	hạt mưa
-籺蓮	hạt sen
-籺椒	hạt tiêu
-後堂	hậu đường
-咍羅	hay là
-咍過	hay quá
-咍牢	hay sao
-係数	hệ số
-系統	hệ thống
-歇哿	hết cả
-現代	hiện đại
-現𠉞	hiện nay
-現在	hiện tại
-現前	hiện tiền
-曉别	hiểu biết
-形成	hình thành
-戶口	hộ khẩu
-户口	hộ khẩu
-互助	hỗ trợ
-和平	hoà bình
-化學	hoá học
-化学	hoá học
-花旗	hoa kỳ
-花茶	hoa trà
-化値	hoá trị
-或羅	hoặc là
-學堂	học đường
-学堂	học đường
-學行	học hành
-学行	học hành
-學生	học sinh
-学生	học sinh
-學問	học vấn
-学問	học vấn
-學院	học viện
-学院	học viện
-悔恨	hối hận
-悔惜	hối tiếc
-𣋚𠉞	hôm nay
-歆𠉞	hôm nay
-𣋚戈	hôm qua
-歆戈	hôm qua
-𣋚𡢐	hôm sau
-歆𡢐	hôm sau
-𣋚𠸗	hôm xưa
-歆𠸗	hôm xưa
-𡉕島	hòn đảo
-紅河	hồng hà
-合邦	hợp bang
-合營	hợp doanh
-合营	hợp doanh
-合分	hợp phần
-盒書	hộp thư
-香料	hương liệu
-鄉俗	hương tục
-香味	hương vị
-𠃣固	ít có
-𠃣欺	ít khi
-𠃣𠳒	ít lời
-𠃣一	ít nhất
-𠃣𡗉	ít nhiều
-𠃣歲	ít tuổi
-𠸥𦋦	kể ra
-計𦋦	kể ra
-𠸥𨕭	kể trên
-計𨕭	kể trên
-結合	kết hợp
-結果	kết quả
-呌求	kêu cầu
-叫求	kêu cầu
-呌噲	kêu gọi
-叫噲	kêu gọi
-呌𡗶	kêu trời
-叫𡗶	kêu trời
-恪别	khác biệt
-恪常	khác thường
-客地	khách địa
-考究	khảo cứu
-考查	khảo tra
-泣坭	khắp nơi
-口分	khẩu phần
-欺芇	khi nào
-𧁷巾	khó khăn
-𧁷𢚸	khó lòng
-科學	khoa học
-科学	khoa học
-科長	khoa trưởng
-空咦	không gì
-空之	không gì
-孔教	khổng giáo
-空𠸥	không kể
-空計	không kể
-空氣	không khí
-空牢	không sao
-空體	không thể
-空体	không thể
-孔子	khổng tử
-區鋪	khu phố
-區域	khu vực
-劍術	kiếm thuật
-劍朮	kiếm thuật
-經營	kinh doanh
-経营	kinh doanh
-經史	kinh sử
-経史	kinh sử
-經財	kinh tài
-経財	kinh tài
-經濟	kinh tế
-経济	kinh tế
-紀元	kỷ nguyên
-𫜵朱	làm cho
-𫜵咦	làm gì
-𫜵之	làm gì
-𫜵紙	làm giấy
-林學	lâm học
-林学	lâm học
-𫜵客	làm khách
-𫜵牢	làm sao
-𫜵役	làm việc
-吝頭	lần đầu
-領事	lãnh sự
-禮教	lễ giáo
-礼教	lễ giáo
-歷史	lịch sử
-聯邦	liên bang
-聯營	liên doanh
-聯营	liên doanh
-聯係	liên hệ
-聯合	liên hợp
-連結	liên kết
-聯關	liên quan
-聯関	liên quan
-聯省	liên tỉnh
-焒𢚸	lửa lòng
-焒情	lửa tình
-論拠	luận cứ
-論題	luận đề
-論語	luận ngữ
-律師	luật sư
-力量	lực lượng
-𣅶呢	lúc này
-𣅶尼	lúc này
-理由	lý do
-默感	mặc cảm
-默𠶢	mặc dầu
-默𠶢	mặc dù
-埋𠬠	mai một
-命𠊛	mạng người
-孟劸	mạnh khoẻ
-𠅍𠰺	mất dạy
-𩈘前	mặt tiền
-𩈘陣	mặt trận
-𩈘𦝄	mặt trăng
-牟色	màu sắc
-𧖱貪	máu tham
-𣛠𠖤	máy bay
-沔北	miền bắc
-沔南	miền nam
-沔中	miền trung
-㵋低	mới đây
-𤞦𠊛	mọi người
-媒場	môi trường
-𠬠丐	một cái
-没藥	một dược
-𠬠𠃣	một ít
-𠬠吝	một lần
-𠬠𣅶	một lúc
-𠬠𠦳	một nghìn
-𠬠𤾓	một trăm
-𠬠兆	một triệu
-𠬠萬	một vạn
-𠬠万	một vạn
-美術	mỹ thuật
-美朮	mỹ thuật
-南洋	nam dương
-南圻	nam kỳ
-𢆥𠸗	năm xưa
-能動	năng động
-能力	năng lực
-能量	năng lượng
-𢧚𠊛	nên người
-𡀮空	nếu không
-𠮩空	nếu không
-銀行	ngân hàng
-𣦍欺	ngay khi
-𣈜禮	ngày lễ
-𣈜礼	ngày lễ
-𣈜𠉞	ngày nay
-𣦍𥐉	ngay ngắn
-𣈜𡢐	ngày sau
-𣈜𣎃	ngày tháng
-𣦍實	ngay thật
-𣈜常	ngày thường
-𣈜𠸗	ngày xưa
-𦖑𠳒	nghe lời
-藝業	nghề nghiệp
-芸業	nghề nghiệp
-藝術	nghệ thuật
-芸朮	nghệ thuật
-義務	nghĩa vụ
-研究	nghiên cứu
-外交	ngoài giao
-外𠰘	ngoài miệng
-外國	ngoại quốc
-𤯆眜	ngon mắt
-𤯆𠰘	ngon miệng
-言語	ngôn ngữ
-語系	ngữ hệ
-𥄬𤯆	ngủ ngon
-五常	ngũ thường
-𠊛些	người ta
-𠊛越	người việt
-𠊛𠸗	người xưa
-危險	nguy hiểm
-元音	nguyên âm
-元年	nguyên niên
-茹𨷶	nhà cửa
-茹𨴦	nhà cửa
-茹行	nhà hàng
-茹客	nhà khách
-茹渃	nhà nước
-茹倅	nhà tôi
-茹碎	nhà tôi
-茹𥘷	nhà trẻ
-茹文	nhà văn
-茹𤤰	nhà vua
-認别	nhận biết
-人民	nhân dân
-人德	nhân đức
-人類	nhân loại
-認𠳒	nhận lời
-認𩈘	nhận mặt
-仁義	nhân nghĩa
-認𦋦	nhận ra
-人造	nhân tạo
-人員	nhân viên
-入景	nhập cảnh
-入局	nhập cuộc
-入學	nhập học
-入学	nhập học
-入會	nhập hội
-入会	nhập hội
-入口	nhập khẩu
-入内	nhập nội
-一定	nhất định
-日用	nhật dụng
-一羅	nhất là
-二元	nhị nguyên
-𡗉欺	nhiều khi
-𡗉𠳒	nhiều lời
-𥆾𧡊	nhìn thấy
-𢖵𠁀	nhớ đời
-𢖵吏	nhớ lại
-𢖵茹	nhớ nhà
-𢖵𦋦	nhớ ra
-𢖵傷	nhớ thương
-𢖵惜	nhớ tiếc
-𡮈歲	nhỏ tuổi
-𡮈要	nhỏ yếu
-如𫇰	như cũ
-如空	như không
-如羅	như là
-如勢	như thế
-如丕	như vậy
-仍𦓡	nhưng mà
-仍麻	nhưng mà
-年少	niên thiếu
-呐𨔈	nói chơi
-吶𨔈	nói chơi
-呐𡀯	nói chuyện
-吶𡀯	nói chuyện
-内地	nội địa
-内堂	nội đường
-呐羅	nói là
-吶羅	nói là
-内能	nội năng
-内在	nội tại
-内治	nội trị
-内務	nội vụ
-𡽫渃	non nước
-嫩𥘷	non trẻ
-女神	nữ thần
-𡶀焒	núi lửa
-𡶀𡽫	núi non
-渃𥒥	nước đa
-渃花	nước hoa
-渃眜	nước mắt
-渃外	nước ngoài
-渃炊	nước sôi
-渃茶	nước trà
-渃越	nước việt
-於兜	ở đâu
-於妬	ở đó
-於吏	ở lại
-翁婆	ông bà
-翁妑	ông bà
-翁𦓅	ông già
-品類	phẩm loại
-犯人	phạm nhân
-犯法	phạm pháp
-分别	phân biệt
-分佈	phân bố
-分𢺺	phân chia
-分工	phần công
-反對	phản đối
-反对	phản đối
-分類	phân loại
-分𡘯	phần lớn
-分芇	phần nào
-分𡗉	phần nhiều
-分𤾓	phần trăm
-分子	phần tử
-分役	phần việc
-法權	pháp quyền
-法权	pháp quyền
-法屬	pháp thuộc
-法治	pháp trị
-佛堂	phật đường
-佛教	phật giáo
-發現	phát hiện
-發節	phát tiết
-佛組	phật tổ
-發展	phát triển
-發問	phát vấn
-飛機	phi cơ
-飛机	phi cơ
-飛隊	phi đội
-飛劍	phi kiếm
-飛場	phi trường
-鋪舍	phố xá
-房𩛖	phòng ăn
-房咹	phòng ăn
-防備	phòng bị
-房客	phòng khách
-防空	phòng không
-房𥄬	phòng ngủ
-房茶	phòng trà
-防衛	phòng vệ
-戈𠁀	qua đời
-過𡗋	quá lắm
-過程	quá trình
-觀音	quan âm
-觀點	quan điểm
-軍隊	quân đội
-關係	quan hệ
-関係	quan hệ
-軍事	quân sự
-關重	quan trọng
-関重	quan trọng
-國營	quốc doanh
-國营	quốc doanh
-國家	quốc gia
-國語	quốc ngữ
-國防	quốc phòng
-國際	quốc tế
-國际	quốc tế
-權力	quyền lực
-权力	quyền lực
-權能	quyền năng
-权能	quyền năng
-決定	quyết định
-𦋦𠫾	ra đi
-𦋦陣	ra trận
-𦋦𠓨	ra vào
-慄羅	rất là
-耒𦋦	rồi ra
-色𢢲	sắc đẹp
-産品	sản phẩm
-産出	sản xuất
-𤎜眜	sáng mắt
-𡢐共	sau cùng
-𡢐低	sau đây
-𡢐妬	sau đó
-𡢐歇	sau hết
-𡢐欺	sau khi
-𡢐呢	sau này
-𡢐尼	sau này
-𡢐女	sau nữa
-𡢐𠸗	sau xưa
-生日	sinh nhật
-生長	sinh trưởng
-生物	sinh vật
-生員	sinh viên
-数𠃣	số ít
-数料	số liệu
-数量	số lượng
-𥾘𥿗	sợi chỉ
-山林	sơn lâm
-使用	sử dụng
-史學	sử học
-史学	sử học
-史册	sử sách
-史冊	sử sách
-師長	sư trưởng
-事物	sự vật
-作家	tác gia
-財政	tài chính
-材料	tài liệu
-才能	tài năng
-在牢	tại sao
-在爲	tại vì
-在為	tại vì
-暫别	tạm biệt
-心神	tâm thần
-暫時	tạm thời
-造化	tạo hoá
-造𦋦	tạo ra
-毕哿	tất cả
-畢哿	tất cả
-必然	tất nhiên
-必要	tất yếu
-艚戰	tàu chiến
-𢬣𤽸	tay trắng
-𠸜噲	tên gọi
-𠸜戶	tên họ
-𠸜户	tên họ
-𥏌焒	tên lửa
-𠸜俗	tên tục
-太平	thái bình
-太子	thái tử
-貪𩛖	tham ăn
-貪咹	tham ăn
-参戰	tham chiến
-參戰	tham chiến
-参加	tham gia
-參加	tham gia
-参考	tham khảo
-參考	tham khảo
-参觀	tham quan
-參觀	tham quan
-貪財	tham tài
-身體	thân thể
-身体	thân thể
-𣎃四	tháng tư
-成功	thành công
-青龍	thanh long
-青年	thanh niên
-成分	thành phần
-城鋪	thành phố
-清心	thanh tâm
-誠實	thành thật
-城市	thành thị
-青天	thanh thiên
-成此	thành thử
-清算	thanh toán
-清查	thanh tra
-十年	thập niên
-失常	thất thường
-失陣	thất trận
-偨教	thầy giáo
-台爲	thay vì
-台為	thay vì
-世界	thế giới
-世紀	thế kỷ
-勢芇	thế nào
-替品	thế phẩm
-世事	thế sự
-世俗	thế tục
-試舉	thi cử
-時𣇞	thì giờ
-詩人	thi nhân
-市場	thị trường
-適合	thích hợp
-適意	thích ý
-天堂	thiên đường
-天使	thiên sứ
-時機	thời cơ
-時机	thời cơ
-時代	thời đại
-時間	thời gian
-時期	thời kỳ
-時節	thời tiết
-通報	thông báo
-通用	thông dụng
-聰明	thông minh
-聪明	thông minh
-通信	thông tin
-次𠀧	thứ ba
-次𦉱	thứ bảy
-次𠄩	thứ hai
-次𠄼	thứ năm
-次一	thứ nhất
-次二	thứ nhì
-次𦒹	thứ sáu
-首長	thủ trưởng
-次長	thứ trưởng
-次四	thứ tư
-首將	thủ tướng
-次要	thứ yếu
-式𩛖	thức ăn
-式咹	thức ăn
-實現	thực hiện
-屬地	thuộc địa
-屬𢚸	thuộc lòng
-上海	thượng hải
-上客	thượng khách
-常欺	thường khi
-常𣈜	thường ngày
-常日	thường nhật
-常年	thường niên
-上品	thượng phẩm
-常常	thường thường
-船長	thuyền trưởng
-店𩛖	tiệm ăn
-店咹	tiệm ăn
-錢鉑	tiền bạc
-前提	tiền đề
-前定	tiền định
-前途	tiền đồ
-錢紙	tiền giấy
-錢𩈘	tiền mặt
-前人	tiền nhân
-前史	tiền sử
-㗂英	tiếng anh
-㗂德	tiếng đức
-㗂美	tiếng mỹ
-㗂日	tiếng nhật
-㗂呐	tiếng nói
-㗂吶	tiếng nói
-㗂法	tiếng pháp
-㗂越	tiếng việt
-㗂意	tiếng ý
-接夾	tiếp giáp
-接俗	tiếp tục
-節目	tiết mục
-小邦	tiểu bang
-小學	tiểu học
-小学	tiểu học
-小史	tiểu sử
-尋曉	tìm hiểu
-信息	tin tức
-情恩	tình ân
-情感	tình cảm
-精明	tinh minh
-精神	tinh thần
-併算	tính toán
-情𢞅	tình yêu
-組織	tổ chức
-組合	tổ hợp
-𡚢𡘯	to lớn
-祖國	tổ quốc
-祖先	tổ tiên
-最高	tối cao
-最多	tối đa
-最後	tối hậu
-最𣈜	tối ngày
-最義	tối nghĩa
-最少	tối thiểu
-倅伵	tôi tớ
-碎伵	tôi tớ
-總共	tổng cộng
-總結	tổng kết
-查究	tra cứu
-呂𠳒	trả lời
-茶𩇢	trà xanh
-茶撑	trà xanh
-𣛤坦	trái đất
-妝點	trang điểm
-𥘷𡥵	trẻ con
-𥘷㛪	trẻ em
-𥘷歲	trẻ tuổi
-治病	trị bệnh
-程度	trình độ
-𧿨吏	trở lại
-助理	trợ lý
-𧿨𢧚	trở nên
-助手	trợ thủ
-𧿨𧗱	trở về
-𡗶𩅹	trời mưa
-𥪝欺	trong khi
-𤄯𤎜	trong sáng
-重要	trọng yếu
-中圻	trung kỳ
-中國	trung quốc
-中心	trung tâm
-𠓀低	trước đây
-𠓀欺	trước khi
-𠓀𩈘	trước mặt
-𠓀𡢐	trước sau
-場𠖤	trường bay
-場学	trường học
-場學	trường học
-場合	trường hợp
-長科	trưởng khoa
-長成	trưởng thành
-傳形	truyền hình
-傳聲	truyền thanh
-詞典	từ điển
-字典	tự điển
-自由	tự do
-自動	tự động
-自𠵴	tự mình
-自然	tự nhiên
-自治	tự trị
-俗語	tục ngữ
-歲𥘷	tuổi trẻ
-雖然	tuy nhiên
-問題	vấn đề
-文化	văn hoá
-文化	văn hoá
-萬能	vạn năng
-万能	vạn năng
-萬物	vạn vật
-万物	vạn vật
-鐄西	vàng tây
-物料	vật liệu
-物理	vật lý
-物品	vật phẩm
-物體	vật thể
-物体	vật thể
-丕𦓡	vậy mà
-丕麻	vậy mà
-𧗱茹	về nhà
-爲牢	vì sao
-為牢	vì sao
-位置	vị trí
-役𫜵	việc làm
-越南	việt nam
-無義	vô nghĩa
-貝埃	với ai
-唄埃	với ai
-貝吏	với lại
-唄吏	với lại
-𢭲𢬣	vói tay
-𢭲細	vói tới
-𢝙𢚸	vui lòng
-社會	xã hội
-社会	xã hội
-社論	xã luận
-𩇢𩇢	xanh xanh
-撑撑	xanh xanh
-𡏦𥩯	xây dựng
-仕𦋦	xảy ra
-吀嘲	xin chào
-吀纇	xin lỗi
-出版	xuất bản
-出現	xuất hiện
-出口	xuất khẩu
-意志	ý chí
-意見	ý kiến
-意義	ý nghĩa
-要求	yêu cầu
-要點	yếu điểm
-要人	yếu nhân
-印度洋	ấn độ dương
-印度教	ấn độ giáo
-偀姉㛪	anh chị em
-襖𠫾𩅹	áo đi mưa
-𣷷日本	biển nhật bản
-洲大洋	châu đại dương
-政治家	chính trị gia
-政治犯	chính trị phạm
-𡨸十𧹼	chữ thập đỏ
-𡦂十𧹼	chữ thập đỏ
-多音節	đa âm tiết
-大本營	đại bản doanh
-大本营	đại bản doanh
-大工業	đại công nghiệp
-𠫾𫜵役	đi làm việc
-動物學	động vật học
-動物学	động vật học
-家庭治	gia đình trị
-價市場	giá thị trường
-价市場	giá thị trường
-紙打𣛠	giấy đánh máy
-紙曰書	giấy viết thư
-𣇞𫜵役	giờ làm việc
-後屬地	hậu thuộc địa
-學屬𢚸	học thuộc lòng
-学屬𢚸	học thuộc lòng
-紅十字	hồng thập tự
-空包𣇞	không bao giờc
-吝頭先	lần đầu tiên
-禮中秋	lễ trung thu
-礼中秋	lễ trung thu
-媒場學	môi trường học
-媒場学	môi trường học
-銀行𧖱	ngân hàng máu
-研究生	nghiên cứu sinh
-人類學	nhân loại học
-人類学	nhân loại học
-如勢芇	như thế nào
-女學堂	nữ học đường
-女学堂	nữ học đường
-分類學	phân loại học
-分類学	phân loại học
-決定論	quyết định luận
-節元旦	tết nguyên đán
-節中秋	tết trung thu
-太平洋	thái bình dương
-書電子	thư điện tử
-㗂中國	tiếng trung quốc
-最後書	tối hậu thư
-總領事	tổng lãnh sự
-助動詞	trợ động từ
-場大学	trường đại họ
-場大學	trường đại học
-場小学	trường tiểu học
-場小學	trường tiểu học
-物理學	vật lý học
-物理学	vật lý học
-院研究	viện nghiên cứu
-王國英	vương quốc anh
-阿彌陀佛	a di đà phật
-音樂古典	âm nhạc cổ điển
-壓力空氣	áp lực không khí
-指数經濟	chỉ số kinh tế
-指数経济	chỉ số kinh tế
-𠫾𠫾吏吏	đi đi lại lại
-家庭边内	gia đình bên nội
-牟𩇢䏧𡗶	màu xanh da trời
-牟撑䏧𡗶	màu xanh da trời
-中心研究	trung tâm nghiên cứu
-社會主義	xã hội chủ nghĩa
-社会主義	xã hội chủ nghĩa
+bởi vì	𤳄爲
+làm gì	𫜵咦
+với ai	貝埃
+với lại	貝吏
+bản doanh	本营
+tất cả	毕哿
+gió đông	𩙌東
+gió mưa	𩙌𩅹
+gió trăng	𩙌𦝄
+biết điều	别条
+tham quan	参觀
+tham gia	参加
+tham khảo	参考
+tham chiến	参戰
+trà xanh	茶撑
+trường học	場学
+chơi chữ	𨔈𡦂
+thông minh	聪明
+đánh giá	打价
+đại học	大学
+đại doanh	大营
+dạy học	𠰺学
+đàn bà	彈妑
+đảng trưởng	党長
+đảng sử	党史
+đảng trị	党治
+tiệm ăn	店咹
+đấu giá	鬥价
+đọc sách	讀冊
+pháp quyền	法权
+phản đối	反对
+phòng ăn	房咹
+phi cơ	飛机
+cái này	丐尼
+cái gì	丐之
+công nghệ	工芸
+có quyền	固权
+có thể	固体
+có điều	固条
+gọi cửa	噲𨴦
+quan hệ	関係
+quan trọng	関重
+quốc tế	國际
+quốc doanh	國营
+hải quan	海関
+hợp doanh	合营
+hộ khẩu	户口
+hoá học	化学
+cơ quan	机関
+cơ hội	机会
+cơ thể	机体
+giá mắt	价眜
+giá trị	价値
+kiếm thuật	劍朮
+kêu gọi	叫噲
+kêu cầu	叫求
+kêu trời	叫𡗶
+kinh tài	経財
+kinh tế	経济
+kinh sử	経史
+kinh doanh	経营
+khoa học	科学
+không thể	空体
+không gì	空之
+không kể	空計
+lễ giáo	礼教
+liên quan	聯関
+liên doanh	聯营
+lâm học	林学
+mỹ thuật	美朮
+xanh xanh	撑撑
+dân quyền	民权
+nói chơi	吶𨔈
+nói là	吶羅
+nói chuyện	吶𡀯
+bàn chân	盘蹎
+bàn luận	盘論
+bàn ăn	盘咹
+bàn cờ	盘碁
+bàn ra	盘𦋦
+bàn giấy	盘紙
+bàn tay	盘𢬣
+bóng gió	䏾𩙌
+vậy mà	丕麻
+ăn cơm	咹粓
+ăn thử	咹試
+bằng chứng	凭證
+bà nội	妑内
+bà ngoại	妑外
+bà con	妑𡥵
+quyền lực	权力
+quyền năng	权能
+nhưng mà	仍麻
+nhà cửa	茹𨴦
+nhà tôi	茹碎
+nhập hội	入会
+nhập học	入学
+xã hội	社会
+thân thể	身体
+tiếng nói	㗂吶
+thời cơ	時机
+sử sách	史冊
+sử học	史学
+thức ăn	式咹
+thay vì	台為
+tham ăn	貪咹
+điều kiện	条件
+đầu cơ	投机
+sau này	𡢐尼
+vạn năng	万能
+vạn vật	万物
+vì sao	為牢
+ông bà	翁妑
+vật thể	物体
+tiểu học	小学
+hàng chữ	行𡦂
+học sinh	学生
+học đường	学堂
+học vấn	学問
+học hành	学行
+học viện	学院
+á đông	亜東
+á châu	亜洲
+dược học	藥学
+nghệ thuật	芸朮
+nghề nghiệp	芸業
+âm lịch	阴厤
+anh họ	偀户
+doanh số	营数
+doanh nghiệp	营業
+dầu ăn	油咹
+tại vì	在為
+cửa sổ	𨴦数
+cửa hàng	𨴦行
+chính thể	正体
+chính đảng	政党
+chấp hành	执行
+chấp chính	执政
+chế độ	制度
+chế phẩm	制品
+chế tạo	制造
+chế tác	制作
+chúng tôi	眾碎
+châu á	洲亜
+chủ thể	主体
+tôi tớ	碎伵
+một vạn	𠬠万
+dù rằng	𠶢浪
+tên họ	𠸜户
+kể trên	計𨕭
+kể ra	計𦋦
+nếu không	𠮩空
+chữ hán	𡦂漢
+chữ mắt	𡦂眜
+chữ nôm	𡦂喃
+chữ viết	𡦂曰
+đổi mới	𢬭㵋
+lúc này	𣅶尼
+ngày lễ	𣈜礼
+bây nhiêu	悲饒
+bây giờ	悲𣇞
+hôm qua	歆戈
+hôm sau	歆𡢐
+hôm nay	歆𠉞
+hôm xưa	歆𠸗
+bởi vì	𤳄為
+làm gì	𫜵之
+ai ai	埃埃
+bán âm	半音
+đồng âm	同音
+nguyên âm	元音
+quan âm	觀音
+bình an	平安
+công an	公安
+dự án	預案
+tình ân	情恩
+tiếng anh	㗂英
+giấy ảnh	紙影
+hình ảnh	形影
+châu âu	洲歐
+thứ ba	次𠀧
+miền bắc	沔北
+đồng bạc	銅鉑
+giấy bạc	紙鉑
+tiền bạc	錢鉑
+cơ bản	基本
+xuất bản	出版
+các bạn	各伴
+hợp bang	合邦
+liên bang	聯邦
+tiểu bang	小邦
+đồng bằng	垌平
+biết bao	别包
+dự báo	預報
+giấy báo	紙報
+thông báo	通報
+dạy bảo	𠰺保
+máy bay	𣛠𠖤
+trường bay	場𠖤
+thứ bảy	次𦉱
+con bé	𡥵𡮣
+em bé	㛪𡮣
+trị bệnh	治病
+phòng bị	防備
+cá biển	𩵜𣷷
+cho biết	朱别
+hiểu biết	曉别
+nhận biết	認别
+khác biệt	恪别
+phân biệt	分别
+tạm biệt	暫别
+hoà bình	和平
+thái bình	太平
+công bố	公佈
+phân bố	分佈
+chạy bộ	𧼋步
+đi bộ	𠫾步
+già cả	𦓅哿
+hết cả	歇哿
+cải cách	改革
+một cái	𠬠丐
+mặc cảm	默感
+tình cảm	情感
+ân cần	殷勤
+gia cảnh	家景
+nhập cảnh	入景
+chiều cao	朝高
+đề cao	提高
+tối cao	最高
+cao cấp	高級
+đề cập	提及
+yêu cầu	要求
+đi chân	𠫾蹎
+xin chào	吀嘲
+âu châu	歐洲
+hạt châu	籺珠
+bỏ chạy	𠬃𧼋
+dự chi	預支
+ý chí	意志
+sợi chỉ	𥾘𥿗
+anh chị	偀姉
+phân chia	分𢺺
+gây chiến	𢲧戰
+giáp chiến	夾戰
+tàu chiến	艚戰
+tài chính	財政
+để cho	底朱
+làm cho	𫜵朱
+đi chơi	𠫾𨔈
+đồ chơi	圖𨔈
+dân chủ	民主
+tổ chức	組織
+gây chuyện	𢲧𡀯
+đâu có	兜固
+ít có	𠃣固
+bé con	𡮣𡥵
+trẻ con	𥘷𡥵
+của công	𧵑公
+phần công	分工
+thành công	成功
+tổng cộng	總共
+bạn cũ	伴𫇰
+như cũ	如𫇰
+luận cứ	論拠
+dân cử	民舉
+thi cử	試舉
+sau cùng	𡢐共
+đều cũng	調拱
+nhập cuộc	入局
+khảo cứu	考究
+nghiên cứu	研究
+tra cứu	查究
+nước đa	渃𥒥
+tối đa	最多
+đấu đá	鬥跢
+áo dài	襖𨱽
+chiều dài	朝𨱽
+cận đại	近代
+hiện đại	現代
+thời đại	時代
+nhân dân	人民
+bán đảo	半島
+hòn đảo	𡉕島
+động đất	動坦
+trái đất	𣛤坦
+mặc dầu	默𠶢
+biết đâu	别兜
+ở đâu	於兜
+ban đầu	班頭
+bắt đầu	扒頭
+đỡ đầu	拖頭
+lần đầu	吝頭
+mất dạy	𠅍𠰺
+đâu đây	兜低
+giờ đây	𣇞低
+mới đây	㵋低
+sau đây	𡢐低
+trước đây	𠓀低
+chủ đề	主題
+luận đề	論題
+tiền đề	前提
+vấn đề	問題
+bóng đèn	䏾畑
+cao đẹp	高𢢲
+sắc đẹp	色𢢲
+bỏ đi	𠬃𠫾
+đường đi	塘𠫾
+ra đi	𦋦𠫾
+khách địa	客地
+nội địa	内地
+thuộc địa	屬地
+cao điểm	高點
+cứ điểm	拠點
+đặc điểm	特點
+địa điểm	地點
+quan điểm	觀點
+trang điểm	妝點
+yếu điểm	要點
+cổ điển	古典
+dược điển	藥典
+từ điển	詞典
+tự điển	字典
+dây điện	絏電
+đèn điện	畑電
+gia đình	家庭
+dự định	預定
+nhất định	一定
+quyết định	決定
+tiền định	前定
+lý do	理由
+tự do	自由
+cái đó	丐妬
+ở đó	於妬
+sau đó	𡢐妬
+bản đồ	版圖
+tiền đồ	前途
+giúp đỡ	𠢞拖
+ấn độ	印度
+trình độ	程度
+cuộc đời	局𠁀
+già đời	𦓅𠁀
+nhớ đời	𢖵𠁀
+qua đời	戈𠁀
+bộ đội	步隊
+phi đội	飛隊
+quân đội	軍隊
+biển đông	𣷷東
+cá đồng	𩵜垌
+cộng đồng	共同
+bị động	被動
+đánh động	打動
+năng động	能動
+tự động	自動
+mặc dù	默𠶢
+nhân đức	人德
+tiếng đức	㗂德
+nhật dụng	日用
+sử dụng	使用
+thông dụng	通用
+gây dựng	𢲧𥩯
+xây dựng	𡏦𥩯
+đông dược	東藥
+một dược	没藥
+đông dương	東洋
+nam dương	南洋
+giáo đường	教堂
+hậu đường	後堂
+nội đường	内堂
+phật đường	佛堂
+thiên đường	天堂
+anh em	偀㛪
+chị em	姉㛪
+trẻ em	𥘷㛪
+con gái	𡥵𡛔
+quốc gia	國家
+tác gia	作家
+ông già	翁𦓅
+thời gian	時間
+bàn giao	搬交
+ngoài giao	外交
+cô giáo	姑教
+khổng giáo	孔教
+phật giáo	佛教
+thầy giáo	偨教
+tiếp giáp	接夾
+bao giấy	包紙
+làm giấy	𫜵紙
+tiền giấy	錢紙
+bao giờ	包𣇞
+thì giờ	時𣇞
+giáp giới	夾界
+thế giới	世界
+tên gọi	𠸜噲
+hồng hà	紅河
+thứ hai	次𠄩
+hàng hải	航海
+thượng hải	上海
+giới hạn	界限
+hối hận	悔恨
+giao hàng	交行
+ngân hàng	銀行
+nhà hàng	茹行
+bộ hành	步行
+cử hành	舉行
+bất hạnh	不幸
+đức hạnh	德行
+giáp hạt	夾籺
+tối hậu	最後
+liên hệ	聯係
+ngữ hệ	語系
+sau hết	𡢐歇
+bảo hiểm	保險
+nguy hiểm	危險
+phát hiện	發現
+thực hiện	實現
+xuất hiện	出現
+tìm hiểu	尋曉
+đội hình	隊形
+truyền hình	傳形
+bông hoa	葻花
+đá hoa	𥒥花
+nước hoa	渃花
+tạo hoá	造化
+văn hoá	文化
+văn hoá	文化
+cộng hoà	共和
+câu hỏi	句𠳨
+kết hợp	結合
+liên hợp	聯合
+thích hợp	適合
+tổ hợp	組合
+trường hợp	場合
+âm hưởng	音響
+ảnh hưởng	影響
+giấy in	紙印
+một ít	𠬠𠃣
+số ít	数𠃣
+liên kết	連結
+tổng kết	總結
+đất khách	坦客
+hành khách	行客
+làm khách	𫜵客
+nhà khách	茹客
+phòng khách	房客
+thượng khách	上客
+khó khăn	𧁷巾
+hải khẩu	海口
+nhập khẩu	入口
+xuất khẩu	出口
+có khi	固欺
+ít khi	𠃣欺
+ngay khi	𣦍欺
+nhiều khi	𡗉欺
+sau khi	𡢐欺
+thường khi	常欺
+trong khi	𥪝欺
+trước khi	𠓀欺
+không khí	空氣
+trưởng khoa	長科
+mạnh khoẻ	孟劸
+bỏ không	𠬃空
+hàng không	航空
+như không	如空
+phòng không	防空
+ấn kiếm	印劍
+phi kiếm	飛劍
+dự kiến	預見
+ý kiến	意見
+bắc kỳ	北圻
+hoa kỳ	花旗
+nam kỳ	南圻
+thời kỳ	時期
+trung kỳ	中圻
+thế kỷ	世紀
+âu là	歐羅
+gọi là	噲羅
+hay là	咍羅
+hoặc là	或羅
+nhất là	一羅
+như là	如羅
+rất là	慄羅
+còn lại	群吏
+nhớ lại	𢖵吏
+ở lại	於吏
+trở lại	𧿨吏
+cách làm	格𫜵
+đi làm	𠫾𫜵
+việc làm	役𫜵
+sơn lâm	山林
+quá lắm	過𡗋
+bông lan	葻蘭
+một lần	𠬠吝
+bảo lãnh	保領
+độc lập	獨立
+định liệu	定料
+dược liệu	藥料
+hương liệu	香料
+số liệu	数料
+tài liệu	材料
+vật liệu	物料
+nhân loại	人類
+phẩm loại	品類
+phân loại	分類
+xin lỗi	吀纇
+đỡ lời	拖𠳒
+giữ lời	𡨹𠳒
+ít lời	𠃣𠳒
+nghe lời	𦖑𠳒
+nhận lời	認𠳒
+nhiều lời	𡗉𠳒
+trả lời	呂𠳒
+phần lớn	分𡘯
+to lớn	𡚢𡘯
+thanh long	青龍
+đẹp lòng	𢢲𢚸
+giữ lòng	𡨹𢚸
+khó lòng	𧁷𢚸
+lửa lòng	焒𢚸
+thuộc lòng	屬𢚸
+vui lòng	𢝙𢚸
+ảnh lửa	影焒
+đá lửa	𥒥焒
+núi lửa	𡶀焒
+tên lửa	𥏌焒
+bình luận	評論
+xã luận	社論
+một lúc	𠬠𣅶
+áp lực	壓力
+năng lực	能力
+lực lượng	力量
+năng lượng	能量
+số lượng	数量
+có lý	固理
+trợ lý	助理
+vật lý	物理
+ba má	爸媽
+bỏ mặc	𠬃默
+cách mạng	革命
+ngon mắt	𤯆眜
+nước mắt	渃眜
+sáng mắt	𤎜眜
+biết mặt	别𩈘
+giáp mặt	夾𩈘
+nhận mặt	認𩈘
+tiền mặt	錢𩈘
+trước mặt	𠓀𩈘
+đánh máy	打𣛠
+chân mây	蹎𩄲
+bố mẹ	𢂞媄
+cha mẹ	吒媄
+giữ miệng	𡨹𠰘
+ngoài miệng	外𠰘
+ngon miệng	𤯆𠰘
+tinh minh	精明
+tự mình	自𠵴
+con một	𡥵𠬠
+mai một	埋𠬠
+hạt mưa	籺𩅹
+trời mưa	𡗶𩅹
+tiết mục	節目
+bắc mỹ	北美
+tiếng mỹ	㗂美
+hải nam	海南
+miền nam	沔南
+việt nam	越南
+thứ năm	次𠄼
+nội năng	内能
+tài năng	才能
+khi nào	欺芇
+phần nào	分芇
+thế nào	勢芇
+hiện nay	現𠉞
+ngày nay	𣈜𠉞
+cho nên	朱𢧚
+trở nên	𧿨𢧚
+ngay ngắn	𣦍𥐉
+ban ngày	班𣈜
+thường ngày	常𣈜
+tối ngày	最𣈜
+định nghĩa	定義
+đồng nghĩa	同義
+giải nghĩa	解義
+nhân nghĩa	仁義
+tối nghĩa	最義
+vô nghĩa	無義
+ý nghĩa	意義
+công nghiệp	工業
+một nghìn	𠬠𠦳
+bên ngoài	边外
+nước ngoài	渃外
+hải ngoại	海外
+ngủ ngon	𥄬𤯆
+phòng ngủ	房𥄬
+luận ngữ	論語
+ngôn ngữ	言語
+quốc ngữ	國語
+tục ngữ	俗語
+con người	𡥵𠊛
+mạng người	命𠊛
+mọi người	𤞦𠊛
+nên người	𢧚𠊛
+kỷ nguyên	紀元
+nhị nguyên	二元
+nhớ nhà	𢖵茹
+về nhà	𧗱茹
+âm nhạc	音樂
+ân nhân	恩人
+bất nhân	不仁
+chủ nhân	主人
+công nhân	工人
+cử nhân	舉人
+hạch nhân	核仁
+hạnh nhân	杏仁
+phạm nhân	犯人
+thi nhân	詩人
+tiền nhân	前人
+yếu nhân	要人
+công nhận	公認
+gia nhập	加入
+đệ nhất	第一
+duy nhất	唯一
+ít nhất	𠃣一
+thứ nhất	次一
+chủ nhật	主日
+sinh nhật	生日
+thường nhật	常日
+tiếng nhật	㗂日
+đánh nhau	打膮
+đều nhau	調膮
+đệ nhì	第二
+thứ nhì	次二
+tất nhiên	必然
+tự nhiên	自然
+tuy nhiên	雖然
+bao nhiêu	包饒
+ít nhiều	𠃣𡗉
+phần nhiều	分𡗉
+nguyên niên	元年
+thanh niên	青年
+thập niên	十年
+thường niên	常年
+đến nơi	𦤾坭
+khắp nơi	泣坭
+hà nội	河内
+nhập nội	入内
+núi non	𡶀𡽫
+sau nữa	𡢐女
+dãy núi	𧿆𡶀
+nhà nước	茹渃
+non nước	𡽫渃
+nhà ở	茹於
+cám ơn	感恩
+cảm ơn	感恩
+trả ơn	呂恩
+đàn ông	彈翁
+bên phải	边沛
+dược phẩm	藥品
+sản phẩm	産品
+thế phẩm	替品
+thượng phẩm	上品
+vật phẩm	物品
+đa phần	多分
+hợp phần	合分
+khẩu phần	口分
+thành phần	成分
+phạm pháp	犯法
+tiếng pháp	㗂法
+đạo phật	道佛
+đường phèn	糖𥽢
+a phiến	阿片
+đường phố	塘鋪
+khu phố	區鋪
+thành phố	城鋪
+đề phòng	提防
+dược phòng	藥房
+quốc phòng	國防
+chính phủ	政府
+bốn phương	𦊚方
+địa phương	地方
+bỏ qua	𠬃戈
+đi qua	𠫾戈
+hay quá	咍過
+kết quả	結果
+đội quân	隊軍
+hải quân	海軍
+anh quốc	英國
+ngoại quốc	外國
+tổ quốc	祖國
+trung quốc	中國
+giải quyết	解決
+đi ra	𠫾𦋦
+nhận ra	認𦋦
+nhớ ra	𢖵𦋦
+rồi ra	耒𦋦
+tạo ra	造𦋦
+xảy ra	仕𦋦
+màu sắc	牟色
+cộng sản	共産
+ban sáng	班𤎜
+buổi sáng	𣇜𤎜
+trong sáng	𤄯𤎜
+dù sao	𠶢牢
+hay sao	咍牢
+không sao	空牢
+làm sao	𫜵牢
+tại sao	在牢
+ngày sau	𣈜𡢐
+trước sau	𠓀𡢐
+thứ sáu	次𦒹
+chia sẻ	𢺺𢩿
+bông sen	葻蓮
+hạt sen	籺蓮
+bác sĩ	伯士
+dược sĩ	藥士
+cây số	𣘃数
+chỉ số	指数
+dân số	民数
+hệ số	係数
+nước sôi	渃炊
+đời sống	𠁀𤯩
+giáo sư	教師
+luật sư	律師
+đại sứ	大使
+thiên sứ	天使
+lịch sử	歷史
+tiền sử	前史
+tiểu sử	小史
+dân sự	民事
+lãnh sự	領事
+quân sự	軍事
+thế sự	世事
+chúng ta	眾些
+người ta	𠊛些
+công tác	工作
+đề tài	題材
+tham tài	貪財
+hiện tại	現在
+nội tại	内在
+thanh tâm	清心
+trung tâm	中心
+nhân tạo	人造
+bao tay	包𢬣
+chân tay	蹎𢬣
+chia tay	𢺺𢬣
+vói tay	𢭲𢬣
+vàng tây	鐄西
+âm tết	音節
+máu tham	𧖱貪
+độc thân	獨身
+nữ thần	女神
+tâm thần	心神
+tinh thần	精神
+đầu tháng	頭𣎃
+ngày tháng	𣈜𣎃
+âm thanh	音聲
+truyền thanh	傳聲
+hình thành	形成
+trưởng thành	長成
+ngay thật	𣦍實
+thành thật	誠實
+cảm thấy	感𧡊
+nhìn thấy	𥆾𧡊
+như thế	如勢
+chạy theo	𧼋遶
+đi theo	𠫾遶
+cận thị	近視
+chỉ thị	指示
+thành thị	城市
+chú thích	注釋
+giải thích	解釋
+thanh thiên	青天
+niên thiếu	年少
+tối thiểu	最少
+cấp thời	急時
+tạm thời	暫時
+hệ thống	系統
+bộ thủ	部首
+trợ thủ	助手
+cân thư	斤書
+hộp thư	盒書
+thành thử	成此
+chính thức	正式
+công thức	公式
+đánh thức	打式
+da thuộc	䏧屬
+pháp thuộc	法屬
+cảm thương	感傷
+coi thương	䁛常
+dễ thương	易傷
+nhớ thương	𢖵傷
+bất thường	不常
+bình thường	平常
+dễ thường	易常
+khác thường	恪常
+ngày thường	𣈜常
+ngũ thường	五常
+thất thường	失常
+thường thường	常常
+cao thượng	高上
+bình thuỷ	瓶水
+chiến thuyền	戰船
+hối tiếc	悔惜
+nhớ tiếc	𢖵惜
+đầu tiên	頭先
+tổ tiên	祖先
+hiện tiền	現前
+mặt tiền	𩈘前
+phát tiết	發節
+thời tiết	時節
+hạt tiêu	籺椒
+đức tin	德信
+thông tin	通信
+ân tình	恩情
+cảnh tình	景情
+chuyện tình	𡀯情
+lửa tình	焒情
+liên tỉnh	聯省
+cải tổ	改組
+phật tổ	佛組
+thanh toán	清算
+tính toán	併算
+bảo toàn	保全
+ban tối	班最
+buổi tối	𣇜最
+vói tới	𢭲細
+điều tra	調查
+khảo tra	考查
+thanh tra	清查
+hoa trà	花茶
+nước trà	渃茶
+phòng trà	房茶
+con trai	𡥵𤳆
+đẹp trai	𢢲𤳆
+bên trái	边賴
+một trăm	𠬠𤾓
+phần trăm	分𤾓
+bố trận	佈陣
+chiến trận	戰陣
+mặt trận	𩈘陣
+ra trận	𦋦陣
+thất trận	失陣
+bóng trăng	䏾𦝄
+mặt trăng	𩈘𦝄
+tay trắng	𢬣𤽸
+nhà trẻ	茹𥘷
+non trẻ	嫩𥘷
+tuổi trẻ	歲𥘷
+dựa trên	豫𨕭
+vị trí	位置
+chính trị	政治
+chủ trị	主治
+đa trị	多値
+hoá trị	化値
+nội trị	内治
+pháp trị	法治
+tự trị	自治
+phát triển	發展
+một triệu	𠬠兆
+chương trình	章程
+quá trình	過程
+bảo trợ	保助
+hỗ trợ	互助
+miền trung	沔中
+môi trường	媒場
+phi trường	飛場
+thị trường	市場
+bộ trưởng	部長
+chóm trưởng	呫長
+đội trưởng	隊長
+khoa trưởng	科長
+sinh trưởng	生長
+sư trưởng	師長
+thủ trưởng	首長
+thứ trưởng	次長
+thuyền trưởng	船長
+tháng tư	𣎃四
+thứ tư	次四
+danh từ	名詞
+động từ	動詞
+điện tử	電子
+khổng tử	孔子
+phần tử	分子
+thái tử	太子
+hương tục	鄉俗
+tên tục	𠸜俗
+thế tục	世俗
+tiếp tục	接俗
+tin tức	信息
+có tuổi	固歲
+ít tuổi	𠃣歲
+nhỏ tuổi	𡮈歲
+trẻ tuổi	𥘷歲
+thủ tướng	首將
+công ty	公司
+hán văn	漢文
+nhà văn	茹文
+phát vấn	發問
+bạn vàng	伴鐄
+cá vàng	𩵜鐄
+dạ vâng	唯𠳐
+đi vào	𠫾𠓨
+ra vào	𦋦𠓨
+cảnh vật	景物
+đồ vật	圖物
+động vật	動物
+sinh vật	生物
+sự vật	事物
+như vậy	如丕
+đi về	𠫾𧗱
+trở về	𧿨𧗱
+bảo vệ	保衛
+cảnh vệ	警衛
+dân vệ	民衛
+phòng vệ	防衛
+các vị	各位
+gia vị	加味
+hương vị	香味
+công việc	工役
+làm việc	𫜵役
+phần việc	分役
+giáo viên	教員
+nhân viên	人員
+sinh viên	生員
+bệnh viện	病院
+cây viết	𣘃曰
+hán việt	漢越
+người việt	𠊛越
+nước việt	渃越
+tiếng việt	㗂越
+dịch vụ	役務
+giáo vụ	教務
+nghĩa vụ	義務
+nội vụ	内務
+nhà vua	茹𤤰
+địa vực	地域
+khu vực	區域
+cao xa	高賖
+gần xa	𧵆賖
+phố xá	鋪舍
+công xã	公社
+cầu xin	求吀
+năm xưa	𢆥𠸗
+ngày xưa	𣈜𠸗
+người xưa	𠊛𠸗
+sau xưa	𡢐𠸗
+đề xuất	題出
+sản xuất	産出
+chú ý	注意
+đẹp ý	𢢲意
+đồng ý	同意
+giữ ý	𡨹意
+thích ý	適意
+tiếng ý	㗂意
+tình yêu	情𢞅
+cần yếu	勤要
+già yếu	𦓅要
+nhỏ yếu	𡮈要
+tất yếu	必要
+thứ yếu	次要
+trọng yếu	重要
+với ai	唄埃
+với lại	唄吏
+bản doanh	本營
+tất cả	畢哿
+gió đông	𩙋東
+gió mưa	𩙋𩅹
+gió trăng	𩙋𦝄
+biết điều	别條
+tham quan	參觀
+tham gia	參加
+tham khảo	參考
+tham chiến	參戰
+trà xanh	茶𩇢
+trường học	場學
+chơi chữ	𨔈𡨸
+thông minh	聰明
+đánh giá	打價
+đại học	大學
+đại doanh	大營
+dạy học	𠰺學
+đàn bà	彈婆
+đảng trưởng	黨長
+đảng sử	黨史
+đảng trị	黨治
+tiệm ăn	店𩛖
+đấu giá	鬥價
+đọc sách	讀册
+pháp quyền	法權
+phản đối	反對
+phòng ăn	房𩛖
+phi cơ	飛機
+cái này	丐呢
+cái gì	丐咦
+công nghệ	工藝
+có quyền	固權
+có thể	固體
+có điều	固條
+gọi cửa	噲𨷶
+quan hệ	關係
+quan trọng	關重
+quốc tế	國際
+quốc doanh	國營
+hải quan	海關
+hợp doanh	合營
+hộ khẩu	戶口
+hoá học	化學
+cơ quan	機關
+cơ hội	機會
+cơ thể	機體
+giá mắt	價眜
+giá trị	價値
+kiếm thuật	劍術
+kêu gọi	呌噲
+kêu cầu	呌求
+kêu trời	呌𡗶
+kinh tài	經財
+kinh tế	經濟
+kinh sử	經史
+kinh doanh	經營
+khoa học	科學
+không thể	空體
+không gì	空咦
+không kể	空𠸥
+lễ giáo	禮教
+liên quan	聯關
+liên doanh	聯營
+lâm học	林學
+mỹ thuật	美術
+xanh xanh	𩇢𩇢
+dân quyền	民權
+nói chơi	呐𨔈
+nói là	呐羅
+nói chuyện	呐𡀯
+bàn chân	盤蹎
+bàn luận	盤論
+bàn ăn	盤𩛖
+bàn cờ	盤碁
+bàn ra	盤𦋦
+bàn giấy	盤紙
+bàn tay	盤𢬣
+bóng gió	䏾𩙋
+vậy mà	丕𦓡
+ăn cơm	𩛖粓
+ăn thử	𩛖試
+bằng chứng	憑證
+bà nội	婆内
+bà ngoại	婆外
+bà con	婆𡥵
+quyền lực	權力
+quyền năng	權能
+nhưng mà	仍𦓡
+nhà cửa	茹𨷶
+nhà tôi	茹倅
+nhập hội	入會
+nhập học	入學
+xã hội	社會
+thân thể	身體
+tiếng nói	㗂呐
+thời cơ	時機
+sử sách	史册
+sử học	史學
+thức ăn	式𩛖
+thay vì	台爲
+tham ăn	貪𩛖
+điều kiện	條件
+đầu cơ	投機
+sau này	𡢐呢
+vạn năng	萬能
+vạn vật	萬物
+vì sao	爲牢
+ông bà	翁婆
+vật thể	物體
+tiểu học	小學
+hàng chữ	行𡨸
+học sinh	學生
+học đường	學堂
+học vấn	學問
+học hành	學行
+học viện	學院
+á đông	亞東
+á châu	亞洲
+dược học	藥學
+nghệ thuật	藝術
+nghề nghiệp	藝業
+âm lịch	陰曆
+anh họ	偀戶
+doanh số	營数
+doanh nghiệp	營業
+dầu ăn	油𩛖
+tại vì	在爲
+cửa sổ	𨷶数
+cửa hàng	𨷶行
+chính thể	正體
+chính đảng	政黨
+chấp hành	執行
+chấp chính	執政
+chế độ	製度
+chế phẩm	製品
+chế tạo	製造
+chế tác	製作
+chúng tôi	眾倅
+châu á	洲亞
+chủ thể	主體
+tôi tớ	倅伵
+một vạn	𠬠萬
+dù rằng	𠶢哴
+tên họ	𠸜戶
+kể trên	𠸥𨕭
+kể ra	𠸥𦋦
+nếu không	𡀮空
+chữ hán	𡨸漢
+chữ mắt	𡨸眜
+chữ nôm	𡨸喃
+chữ viết	𡨸曰
+đổi mới	𢷮㵋
+lúc này	𣅶呢
+ngày lễ	𣈜禮
+bây nhiêu	𣊾饒
+bây giờ	𣊾𣇞
+hôm qua	𣋚戈
+hôm sau	𣋚𡢐
+hôm nay	𣋚𠉞
+hôm xưa	𣋚𠸗
+trường đại học	場大学
+trường tiểu học	場小学
+đại bản doanh	大本营
+động vật học	動物学
+phân loại học	分類学
+giá thị trường	价市場
+lễ trung thu	礼中秋
+môi trường học	媒場学
+nữ học đường	女学堂
+nhân loại học	人類学
+vật lý học	物理学
+học thuộc lòng	学屬𢚸
+chữ thập đỏ	𡦂十𧹼
+vương quốc anh	王國英
+biển nhật bản	𣷷日本
+viện nghiên cứu	院研究
+tết nguyên đán	節元旦
+hậu thuộc địa	後屬地
+thái bình dương	太平洋
+châu đại dương	洲大洋
+ấn độ dương	印度洋
+anh chị em	偀姉㛪
+chính trị gia	政治家
+ấn độ giáo	印度教
+không bao giờ	空包𣇞
+quyết định luận	決定論
+ngân hàng máu	銀行𧖱
+giấy đánh máy	紙打𣛠
+áo đi mưa	襖𠫾𩅹
+như thế nào	如勢芇
+đại công nghiệp	大工業
+chính trị phạm	政治犯
+tiếng trung quốc	㗂中國
+nghiên cứu sinh	研究生
+tổng lãnh sự	總領事
+tết trung thu	節中秋
+tối hậu thư	最後書
+giấy viết thư	紙曰書
+lần đầu tiên	吝頭先
+đa âm tiết	多音節
+gia đình trị	家庭治
+trợ động từ	助動詞
+thư điện tử	書電子
+hồng thập tự	紅十字
+đi làm việc	𠫾𫜵役
+giờ làm việc	𣇞𫜵役
+trường đại học	場大學
+trường tiểu học	場小學
+đại bản doanh	大本營
+động vật học	動物學
+phân loại học	分類學
+giá thị trường	價市場
+lễ trung thu	禮中秋
+môi trường học	媒場學
+nữ học đường	女學堂
+nhân loại học	人類學
+vật lý học	物理學
+học thuộc lòng	學屬𢚸
+chữ thập đỏ	𡨸十𧹼
+màu xanh da trời	牟撑䏧𡗶
+xã hội chủ nghĩa	社会主義
+chỉ số kinh tế	指数経济
+trung tâm nghiên cứu	中心研究
+âm nhạc cổ điển	音樂古典
+áp lực không khí	壓力空氣
+đi đi lại lại	𠫾𠫾吏吏
+gia đình bên nội	家庭边内
+a di đà phật	阿彌陀佛
+màu xanh da trời	牟𩇢䏧𡗶
+xã hội chủ nghĩa	社會主義
+chỉ số kinh tế	指数經濟
+
