@@ -1,4 +1,7 @@
 # rime-chunom-cakegao
+
+Edited at 2023-01-26
+
 喃字输入方案。
 
 本输入方案使用telex模式。
