@@ -22,6 +22,6 @@
 
 支持两个简码：f=ph w=ư
 
-鸣谢：[0xAA55](https://github.com/0xAA55)、Fitzgerald_P_K
+鸣谢：[0xAA55](https://github.com/0xAA55)、[Fitzgerald_P_K]https://github.com/Fitzgerald-Porthmouth-Koenigsegg
 
 若有建议请提出。
